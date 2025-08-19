@@ -17,6 +17,8 @@ jobs:
     steps:
       - name: Checkout 仓库
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true  # 确保可以 push
 
       - name: 设置 Python
         uses: actions/setup-python@v4
@@ -30,7 +32,7 @@ jobs:
       - name: 运行原 Python 脚本
         run: python sp500_data.py
 
-      - name: 增量追加新数据到 CSV
+      - name: 运行增量追加脚本
         run: python append_new_data.py
 
       - name: 提交更新后的 CSV
@@ -39,6 +41,5 @@ jobs:
           git config user.email "actions@github.com"
           git add sp500_data/*.csv
           git diff --quiet && echo "CSV 无更新，跳过提交" || git commit -m "增量更新 SP500 CSV"
-          git push
-
-        
+          # 使用 GitHub 提供的 token 推送
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
