@@ -3,7 +3,7 @@ import csv
 import time
 import requests
 import pandas as pd
-from datetime import datetime, timedelta
+from datetime import datetime, timezone
 from bs4 import BeautifulSoup
 import random
 import json
@@ -229,7 +229,7 @@ def load_progress_state():
 def is_market_open():
     """检查市场是否开放（简单版）"""
     # 美国东部时间（纽约）的开放时间
-    now_utc = datetime.utcnow()
+    now_utc = datetime.now(timezone.utc)
     now_est = now_utc - timedelta(hours=5)  # UTC-5 为标准时间，UTC-4 为夏令时
 
     # 检查是否为周末
