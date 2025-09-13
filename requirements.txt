@@ -3,3 +3,6 @@ yfinance
 requests
 beautifulsoup4
 fake_useragent
+numpy
+datetime
+timedelta
