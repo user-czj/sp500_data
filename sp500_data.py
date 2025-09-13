@@ -3,7 +3,7 @@ import csv
 import time
 import requests
 import pandas as pd
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from bs4 import BeautifulSoup
 import random
 import json
