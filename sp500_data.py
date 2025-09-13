@@ -11,6 +11,7 @@ import yfinance as yf
 from fake_useragent import UserAgent
 import signal
 import sys
+import subprocess  # 新增导入
 
 # 配置参数
 DATA_DIR = "sp500_data"  # 数据存储目录
@@ -31,6 +32,7 @@ total_tickers = 0
 tickers = []
 updated_count = 0
 failed_tickers = []  # 记录更新失败的股票
+is_first_run = True  # 新增：标记是否为第一次运行
 
 
 def signal_handler(sig, frame):
@@ -135,7 +137,7 @@ def get_sp500_tickers():
 
         # 使用内置的备选列表
         print("使用内置备选成分股列表")
-        return ['AAPL', 'MSFT', 'AMZN', 'GOOGL', 'META', 'JPM', 'V', 'PG', 'JNJ', 'XOM']
+        return ['AAPL']
 
 
 def download_stock_data(ticker, start_date=None):
@@ -334,9 +336,48 @@ def generate_update_report():
     return report_content
 
 
+def run_chan_processor():
+    """运行缠论处理器处理包含关系"""
+    print("开始运行缠论处理器处理包含关系...")
+
+    try:
+        # 检查是否为第一次运行
+        global is_first_run
+        processed_dir = "processed_data"
+
+        if is_first_run and not os.path.exists(processed_dir):
+            # 第一次运行，需要全量处理
+            print("第一次运行，执行全量处理...")
+            result = subprocess.run([sys.executable, "chan_processor.py"],
+                                    capture_output=True, text=True, timeout=3600)  # 1小时超时
+        else:
+            # 后续运行，使用增量处理
+            print("后续运行，执行增量处理...")
+            # 这里可以添加增量处理的逻辑，或者直接运行chan_processor.py
+            # 因为chan_processor.py内部已经实现了增量处理的逻辑
+            result = subprocess.run([sys.executable, "chan_processor.py"],
+                                    capture_output=True, text=True, timeout=1800)  # 30分钟超时
+
+        print("缠论处理器输出:")
+        print(result.stdout)
+        if result.stderr:
+            print("缠论处理器错误:")
+            print(result.stderr)
+
+        if result.returncode == 0:
+            print("缠论处理器运行成功")
+        else:
+            print(f"缠论处理器运行失败，返回码: {result.returncode}")
+
+    except subprocess.TimeoutExpired:
+        print("缠论处理器运行超时")
+    except Exception as e:
+        print(f"运行缠论处理器时发生错误: {str(e)}")
+
+
 def update_all_stocks():
     """更新所有标普500股票数据（支持分多天运行）"""
-    global current_ticker_index, total_tickers, tickers, updated_count, failed_tickers
+    global current_ticker_index, total_tickers, tickers, updated_count, failed_tickers, is_first_run
 
     # 重置失败列表
     failed_tickers = []
@@ -353,8 +394,10 @@ def update_all_stocks():
         print(f"成分股列表已变化，重置进度")
         last_processed = 0
         prev_updated_count = 0
+        is_first_run = True  # 成分股列表变化，视为第一次运行
     else:
         print(f"恢复之前的进度: 最后处理索引={last_processed}, 总股票数={total_stocks}, 更新数={prev_updated_count}")
+        is_first_run = (last_processed == 0)  # 如果从第0只开始，视为第一次运行
 
     # 更新全局变量
     current_ticker_index = last_processed
@@ -481,6 +524,9 @@ def main():
 
     # 自动更新数据
     update_all_stocks()
+
+    # 数据更新完成后运行缠论处理器
+    run_chan_processor()
 
     print("=" * 50)
     print("程序执行完毕")
