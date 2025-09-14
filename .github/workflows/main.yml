@@ -47,3 +47,22 @@ jobs:
             git push origin HEAD:main
             echo "✅ CSV 已更新并推送成功"
           fi
+
+      - name: 运行缠论处理脚本
+        run: |
+          python chan_processor.py
+
+      - name: 提交处理后的CSV
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add processed_data/*.csv
+
+          if git diff --cached --quiet; then
+            echo "⚠️ 处理后的数据无更新，跳过提交"
+          else
+            git commit -m "更新 processed_data 缠论数据"
+            git push origin HEAD:main
+            echo "✅ processed_data 已更新并推送成功"
+          fi
