@@ -5,6 +5,10 @@ on:
     - cron: '0 0 * * *'   # UTC 时间 0:00 (换算成北京时间 8:00)
   workflow_dispatch:   # 手动触发
 
+concurrency:           # 添加并发控制，防止同时运行多个工作流
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -15,6 +19,8 @@ jobs:
     steps:
       - name: Checkout 仓库
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 获取完整历史，便于 rebase 操作
 
       - name: 设置 Python
         uses: actions/setup-python@v5
@@ -33,46 +39,43 @@ jobs:
         run: |
           python append_new_data.py
 
-      - name: 提交更新后的CSV
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-
-          git add sp500_data/*.csv
-
-          if git diff --cached --quiet; then
-            echo "⚠️ CSV 无更新，跳过提交"
-          else
-            git commit -m "增量更新 SP500 CSV"
-            git push origin HEAD:main
-            echo "✅ CSV 已更新并推送成功"
-          fi
-
       - name: 运行缠论处理脚本
         run: |
           python chan_processor.py
 
-      - name: 提交更新后的数据文件
+      - name: 配置 Git
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-      
-          # 添加文件（不存在的静默忽略）
-          git add sp500_data/*.csv 2>/dev/null || true
-          git add processed_data/*.csv 2>/dev/null || true
-          git add sequence_data/*.csv 2>/dev/null || true
-          git add sequence_data/*.json 2>/dev/null || true
-          git add state/*.json 2>/dev/null || true
-      
+
+      - name: 拉取远程最新更改
+        run: |
+          # 尝试拉取远程更改，使用 rebase 方式合并
+          git pull --rebase origin main || echo "拉取失败，继续执行"
+
+      - name: 添加和提交所有更改
+        run: |
+          # 添加所有可能更改的文件
+          git add sp500_data/*.csv || true
+          git add processed_data/*.csv || true
+          git add sequence_data/*.csv || true
+          git add sequence_data/*.json || true
+          git add state/*.json || true
+          
+          # 检查是否有更改需要提交
           if git diff --cached --quiet; then
-            echo "⚠️ 没有新数据需要提交，跳过"
+            echo "⚠️ 没有新数据需要提交，跳过推送"
           else
-            # 拉取远程最新提交并 rebase
-            git pull --rebase origin main
-      
-            # 提交并推送
-            git commit -m "增量更新 SP500 和缠论处理数据"
-            git push origin main
-            echo "✅ 数据已更新并推送成功"
+            git commit -m "自动更新: SP500数据和缠论分析 $(date +'%Y-%m-%d %H:%M')"
+            echo "✅ 更改已提交"
           fi
-            
+
+      - name: 推送更改到远程
+        run: |
+          # 尝试推送，如果失败则拉取最新更改并重试
+          if ! git push origin main; then
+            echo "推送失败，尝试拉取最新更改并重新应用提交..."
+            git pull --rebase origin main
+            git push origin main
+          fi
+          echo "✅ 更改已成功推送到远程仓库"
