@@ -54,27 +54,25 @@ jobs:
 
       - name: 提交更新后的数据文件
         run: |
-          # 配置 Git 用户信息
           git config user.name "github-actions"
           git config user.email "actions@github.com"
       
-          # 添加文件（存在的才 add，不存在不会报错）
+          # 添加文件（不存在的静默忽略）
           git add sp500_data/*.csv 2>/dev/null || true
           git add processed_data/*.csv 2>/dev/null || true
           git add sequence_data/*.csv 2>/dev/null || true
           git add sequence_data/*.json 2>/dev/null || true
           git add state/*.json 2>/dev/null || true
       
-          # 如果没有更新，直接跳过
           if git diff --cached --quiet; then
             echo "⚠️ 没有新数据需要提交，跳过"
           else
-            # 拉取远程最新提交，使用 rebase 避免冲突
-            git pull --rebase origin main || true
+            # 拉取远程最新提交并 rebase
+            git pull --rebase origin main
       
             # 提交并推送
             git commit -m "增量更新 SP500 和缠论处理数据"
-            git push origin HEAD:main
+            git push origin main
             echo "✅ 数据已更新并推送成功"
           fi
             
