@@ -56,7 +56,10 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add processed_data/*.csv sequence_data/*.csv sequence_data/*.json state/*.json
+          git add processed_data/*.csv 2>/dev/null || true
+          git add sequence_data/*.csv 2>/dev/null || true
+          git add sequence_data/*.json 2>/dev/null || true
+          git add state/*.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "⚠️ 缠论数据无更新，跳过提交"
           else
@@ -64,4 +67,4 @@ jobs:
             git push origin HEAD:main
             echo "✅ 缠论处理后的数据文件已更新并推送成功"
           fi
-
+      
