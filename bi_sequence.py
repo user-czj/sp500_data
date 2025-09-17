@@ -3,23 +3,10 @@ import numpy as np
 from typing import List, Dict, Tuple, Optional, Union
 import logging
 import os
-import matplotlib.pyplot as plt
-from matplotlib import font_manager
 import json
 from datetime import datetime
 
-# 设置中文字体支持
-try:
-    # 尝试使用系统中已有的中文字体
-    font_list = [f.name for f in font_manager.fontManager.ttflist]
-    chinese_fonts = ['SimHei', 'Microsoft YaHei', 'SimSun', 'DejaVu Sans']
-    for font in chinese_fonts:
-        if font in font_list:
-            plt.rcParams['font.sans-serif'] = [font]
-            break
-    plt.rcParams['axes.unicode_minus'] = False  # 解决负号显示问题
-except:
-    print("警告: 中文字体设置失败，图表中的中文可能无法正常显示")
+
 
 # 设置日志
 logging.basicConfig(level=logging.INFO)
