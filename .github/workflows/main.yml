@@ -43,6 +43,10 @@ jobs:
         run: |
           python chan_processor.py
 
+      - name: 运行笔序列识别脚本
+        run: |
+          python bi_sequence.py
+
       - name: 配置 Git
         run: |
           git config user.name "github-actions"
@@ -58,15 +62,15 @@ jobs:
           # 添加所有可能更改的文件
           git add sp500_data/*.csv || true
           git add processed_data/*.csv || true
-          git add sequence_data/*.csv || true
-          git add sequence_data/*.json || true
-          git add state/*.json || true
+          git add sequence_data/*.csv || true  # 新增：添加笔序列CSV文件
+          git add sequence_data/*.json || true # 新增：添加笔序列JSON文件
+          git add state/*.json || true         # 新增：添加状态文件
           
           # 检查是否有更改需要提交
           if git diff --cached --quiet; then
             echo "⚠️ 没有新数据需要提交，跳过推送"
           else
-            git commit -m "自动更新: SP500数据和缠论分析 $(date +'%Y-%m-%d %H:%M')"
+            git commit -m "自动更新: SP500数据、缠论分析和笔序列 $(date +'%Y-%m-%d %H:%M')"
             echo "✅ 更改已提交"
           fi
 
