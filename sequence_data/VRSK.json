@@ -1,0 +1,6437 @@
+[
+  {
+    "start": {
+      "k_index": 1,
+      "type": "bottom",
+      "price": 26.100000381469727,
+      "date": "2009-10-13"
+    },
+    "end": {
+      "k_index": 9,
+      "type": "top",
+      "price": 29.25,
+      "date": "2009-10-27"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 9,
+      "type": "top",
+      "price": 29.25,
+      "date": "2009-10-27"
+    },
+    "end": {
+      "k_index": 13,
+      "type": "bottom",
+      "price": 26.950000762939453,
+      "date": "2009-11-06"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 13,
+      "type": "bottom",
+      "price": 26.950000762939453,
+      "date": "2009-11-06"
+    },
+    "end": {
+      "k_index": 17,
+      "type": "top",
+      "price": 30.0,
+      "date": "2009-11-13"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 17,
+      "type": "top",
+      "price": 30.0,
+      "date": "2009-11-13"
+    },
+    "end": {
+      "k_index": 24,
+      "type": "bottom",
+      "price": 26.65999984741211,
+      "date": "2009-11-27"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 24,
+      "type": "bottom",
+      "price": 26.65999984741211,
+      "date": "2009-11-27"
+    },
+    "end": {
+      "k_index": 37,
+      "type": "top",
+      "price": 31.18000030517578,
+      "date": "2009-12-24"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 37,
+      "type": "top",
+      "price": 31.18000030517578,
+      "date": "2009-12-24"
+    },
+    "end": {
+      "k_index": 42,
+      "type": "bottom",
+      "price": 29.489999771118164,
+      "date": "2010-01-05"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 42,
+      "type": "bottom",
+      "price": 29.489999771118164,
+      "date": "2010-01-05"
+    },
+    "end": {
+      "k_index": 46,
+      "type": "top",
+      "price": 30.3799991607666,
+      "date": "2010-01-13"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 46,
+      "type": "top",
+      "price": 30.3799991607666,
+      "date": "2010-01-13"
+    },
+    "end": {
+      "k_index": 50,
+      "type": "bottom",
+      "price": 27.690000534057617,
+      "date": "2010-01-20"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 50,
+      "type": "bottom",
+      "price": 27.690000534057617,
+      "date": "2010-01-20"
+    },
+    "end": {
+      "k_index": 53,
+      "type": "top",
+      "price": 29.239999771118164,
+      "date": "2010-01-28"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 53,
+      "type": "top",
+      "price": 29.239999771118164,
+      "date": "2010-01-28"
+    },
+    "end": {
+      "k_index": 56,
+      "type": "bottom",
+      "price": 26.64999961853028,
+      "date": "2010-02-05"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 56,
+      "type": "bottom",
+      "price": 26.64999961853028,
+      "date": "2010-02-05"
+    },
+    "end": {
+      "k_index": 68,
+      "type": "top",
+      "price": 28.739999771118164,
+      "date": "2010-03-01"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 68,
+      "type": "top",
+      "price": 28.739999771118164,
+      "date": "2010-03-01"
+    },
+    "end": {
+      "k_index": 71,
+      "type": "bottom",
+      "price": 27.049999237060547,
+      "date": "2010-03-05"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 71,
+      "type": "bottom",
+      "price": 27.049999237060547,
+      "date": "2010-03-05"
+    },
+    "end": {
+      "k_index": 76,
+      "type": "top",
+      "price": 28.770000457763672,
+      "date": "2010-03-22"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 76,
+      "type": "top",
+      "price": 28.770000457763672,
+      "date": "2010-03-22"
+    },
+    "end": {
+      "k_index": 83,
+      "type": "bottom",
+      "price": 27.520000457763672,
+      "date": "2010-04-08"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 83,
+      "type": "bottom",
+      "price": 27.520000457763672,
+      "date": "2010-04-08"
+    },
+    "end": {
+      "k_index": 89,
+      "type": "top",
+      "price": 28.729999542236328,
+      "date": "2010-04-20"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 89,
+      "type": "top",
+      "price": 28.729999542236328,
+      "date": "2010-04-20"
+    },
+    "end": {
+      "k_index": 94,
+      "type": "bottom",
+      "price": 27.690000534057617,
+      "date": "2010-04-29"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 94,
+      "type": "bottom",
+      "price": 27.690000534057617,
+      "date": "2010-04-29"
+    },
+    "end": {
+      "k_index": 104,
+      "type": "top",
+      "price": 31.75,
+      "date": "2010-05-17"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 104,
+      "type": "top",
+      "price": 31.75,
+      "date": "2010-05-17"
+    },
+    "end": {
+      "k_index": 108,
+      "type": "bottom",
+      "price": 28.459999084472656,
+      "date": "2010-05-21"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 108,
+      "type": "bottom",
+      "price": 28.459999084472656,
+      "date": "2010-05-21"
+    },
+    "end": {
+      "k_index": 114,
+      "type": "top",
+      "price": 30.799999237060547,
+      "date": "2010-06-03"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 114,
+      "type": "top",
+      "price": 30.799999237060547,
+      "date": "2010-06-03"
+    },
+    "end": {
+      "k_index": 117,
+      "type": "bottom",
+      "price": 28.81999969482422,
+      "date": "2010-06-10"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 117,
+      "type": "bottom",
+      "price": 28.81999969482422,
+      "date": "2010-06-10"
+    },
+    "end": {
+      "k_index": 125,
+      "type": "top",
+      "price": 31.11000061035156,
+      "date": "2010-06-28"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 125,
+      "type": "top",
+      "price": 31.11000061035156,
+      "date": "2010-06-28"
+    },
+    "end": {
+      "k_index": 136,
+      "type": "bottom",
+      "price": 28.40999984741211,
+      "date": "2010-07-21"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 136,
+      "type": "bottom",
+      "price": 28.40999984741211,
+      "date": "2010-07-21"
+    },
+    "end": {
+      "k_index": 139,
+      "type": "top",
+      "price": 30.14999961853028,
+      "date": "2010-07-27"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 139,
+      "type": "top",
+      "price": 30.14999961853028,
+      "date": "2010-07-27"
+    },
+    "end": {
+      "k_index": 144,
+      "type": "bottom",
+      "price": 27.799999237060547,
+      "date": "2010-08-10"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 144,
+      "type": "bottom",
+      "price": 27.799999237060547,
+      "date": "2010-08-10"
+    },
+    "end": {
+      "k_index": 147,
+      "type": "top",
+      "price": 28.5,
+      "date": "2010-08-23"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 147,
+      "type": "top",
+      "price": 28.5,
+      "date": "2010-08-23"
+    },
+    "end": {
+      "k_index": 150,
+      "type": "bottom",
+      "price": 27.39999961853028,
+      "date": "2010-08-26"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 150,
+      "type": "bottom",
+      "price": 27.39999961853028,
+      "date": "2010-08-26"
+    },
+    "end": {
+      "k_index": 157,
+      "type": "top",
+      "price": 28.75,
+      "date": "2010-09-20"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 157,
+      "type": "top",
+      "price": 28.75,
+      "date": "2010-09-20"
+    },
+    "end": {
+      "k_index": 163,
+      "type": "bottom",
+      "price": 27.040000915527344,
+      "date": "2010-09-28"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 163,
+      "type": "bottom",
+      "price": 27.040000915527344,
+      "date": "2010-09-28"
+    },
+    "end": {
+      "k_index": 179,
+      "type": "top",
+      "price": 30.799999237060547,
+      "date": "2010-11-05"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 179,
+      "type": "top",
+      "price": 30.799999237060547,
+      "date": "2010-11-05"
+    },
+    "end": {
+      "k_index": 183,
+      "type": "bottom",
+      "price": 29.850000381469727,
+      "date": "2010-11-15"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 183,
+      "type": "bottom",
+      "price": 29.850000381469727,
+      "date": "2010-11-15"
+    },
+    "end": {
+      "k_index": 200,
+      "type": "top",
+      "price": 34.65999984741211,
+      "date": "2010-12-21"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 200,
+      "type": "top",
+      "price": 34.65999984741211,
+      "date": "2010-12-21"
+    },
+    "end": {
+      "k_index": 205,
+      "type": "bottom",
+      "price": 34.0,
+      "date": "2010-12-31"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 205,
+      "type": "bottom",
+      "price": 34.0,
+      "date": "2010-12-31"
+    },
+    "end": {
+      "k_index": 209,
+      "type": "top",
+      "price": 34.5,
+      "date": "2011-01-06"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 209,
+      "type": "top",
+      "price": 34.5,
+      "date": "2011-01-06"
+    },
+    "end": {
+      "k_index": 216,
+      "type": "bottom",
+      "price": 33.11000061035156,
+      "date": "2011-01-21"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 216,
+      "type": "bottom",
+      "price": 33.11000061035156,
+      "date": "2011-01-21"
+    },
+    "end": {
+      "k_index": 219,
+      "type": "top",
+      "price": 34.310001373291016,
+      "date": "2011-01-26"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 219,
+      "type": "top",
+      "price": 34.310001373291016,
+      "date": "2011-01-26"
+    },
+    "end": {
+      "k_index": 222,
+      "type": "bottom",
+      "price": 33.52000045776367,
+      "date": "2011-01-31"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 222,
+      "type": "bottom",
+      "price": 33.52000045776367,
+      "date": "2011-01-31"
+    },
+    "end": {
+      "k_index": 226,
+      "type": "top",
+      "price": 33.95000076293945,
+      "date": "2011-02-15"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 226,
+      "type": "top",
+      "price": 33.95000076293945,
+      "date": "2011-02-15"
+    },
+    "end": {
+      "k_index": 234,
+      "type": "bottom",
+      "price": 30.76000022888184,
+      "date": "2011-03-02"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 234,
+      "type": "bottom",
+      "price": 30.76000022888184,
+      "date": "2011-03-02"
+    },
+    "end": {
+      "k_index": 239,
+      "type": "top",
+      "price": 32.689998626708984,
+      "date": "2011-03-09"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 239,
+      "type": "top",
+      "price": 32.689998626708984,
+      "date": "2011-03-09"
+    },
+    "end": {
+      "k_index": 245,
+      "type": "bottom",
+      "price": 30.959999084472656,
+      "date": "2011-03-18"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 245,
+      "type": "bottom",
+      "price": 30.959999084472656,
+      "date": "2011-03-18"
+    },
+    "end": {
+      "k_index": 248,
+      "type": "top",
+      "price": 32.86000061035156,
+      "date": "2011-03-25"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 248,
+      "type": "top",
+      "price": 32.86000061035156,
+      "date": "2011-03-25"
+    },
+    "end": {
+      "k_index": 251,
+      "type": "bottom",
+      "price": 32.470001220703125,
+      "date": "2011-03-31"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 251,
+      "type": "bottom",
+      "price": 32.470001220703125,
+      "date": "2011-03-31"
+    },
+    "end": {
+      "k_index": 255,
+      "type": "top",
+      "price": 33.70000076293945,
+      "date": "2011-04-06"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 255,
+      "type": "top",
+      "price": 33.70000076293945,
+      "date": "2011-04-06"
+    },
+    "end": {
+      "k_index": 258,
+      "type": "bottom",
+      "price": 32.2400016784668,
+      "date": "2011-04-11"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 258,
+      "type": "bottom",
+      "price": 32.2400016784668,
+      "date": "2011-04-11"
+    },
+    "end": {
+      "k_index": 261,
+      "type": "top",
+      "price": 33.540000915527344,
+      "date": "2011-04-15"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 261,
+      "type": "top",
+      "price": 33.540000915527344,
+      "date": "2011-04-15"
+    },
+    "end": {
+      "k_index": 268,
+      "type": "bottom",
+      "price": 32.65999984741211,
+      "date": "2011-05-02"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 268,
+      "type": "bottom",
+      "price": 32.65999984741211,
+      "date": "2011-05-02"
+    },
+    "end": {
+      "k_index": 273,
+      "type": "top",
+      "price": 34.79999923706055,
+      "date": "2011-05-12"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 273,
+      "type": "top",
+      "price": 34.79999923706055,
+      "date": "2011-05-12"
+    },
+    "end": {
+      "k_index": 283,
+      "type": "bottom",
+      "price": 33.349998474121094,
+      "date": "2011-06-09"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 283,
+      "type": "bottom",
+      "price": 33.349998474121094,
+      "date": "2011-06-09"
+    },
+    "end": {
+      "k_index": 296,
+      "type": "top",
+      "price": 35.41999816894531,
+      "date": "2011-07-07"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 296,
+      "type": "top",
+      "price": 35.41999816894531,
+      "date": "2011-07-07"
+    },
+    "end": {
+      "k_index": 301,
+      "type": "bottom",
+      "price": 33.02000045776367,
+      "date": "2011-07-18"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 301,
+      "type": "bottom",
+      "price": 33.02000045776367,
+      "date": "2011-07-18"
+    },
+    "end": {
+      "k_index": 304,
+      "type": "top",
+      "price": 33.75,
+      "date": "2011-07-22"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 304,
+      "type": "top",
+      "price": 33.75,
+      "date": "2011-07-22"
+    },
+    "end": {
+      "k_index": 311,
+      "type": "bottom",
+      "price": 30.8799991607666,
+      "date": "2011-08-10"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 311,
+      "type": "bottom",
+      "price": 30.8799991607666,
+      "date": "2011-08-10"
+    },
+    "end": {
+      "k_index": 325,
+      "type": "top",
+      "price": 35.099998474121094,
+      "date": "2011-08-31"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 325,
+      "type": "top",
+      "price": 35.099998474121094,
+      "date": "2011-08-31"
+    },
+    "end": {
+      "k_index": 332,
+      "type": "bottom",
+      "price": 32.540000915527344,
+      "date": "2011-09-12"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 332,
+      "type": "bottom",
+      "price": 32.540000915527344,
+      "date": "2011-09-12"
+    },
+    "end": {
+      "k_index": 336,
+      "type": "top",
+      "price": 35.27000045776367,
+      "date": "2011-09-16"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 336,
+      "type": "top",
+      "price": 35.27000045776367,
+      "date": "2011-09-16"
+    },
+    "end": {
+      "k_index": 341,
+      "type": "bottom",
+      "price": 32.540000915527344,
+      "date": "2011-09-26"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 341,
+      "type": "bottom",
+      "price": 32.540000915527344,
+      "date": "2011-09-26"
+    },
+    "end": {
+      "k_index": 345,
+      "type": "top",
+      "price": 35.13999938964844,
+      "date": "2011-10-03"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 345,
+      "type": "top",
+      "price": 35.13999938964844,
+      "date": "2011-10-03"
+    },
+    "end": {
+      "k_index": 348,
+      "type": "bottom",
+      "price": 33.91999816894531,
+      "date": "2011-10-06"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 348,
+      "type": "bottom",
+      "price": 33.91999816894531,
+      "date": "2011-10-06"
+    },
+    "end": {
+      "k_index": 351,
+      "type": "top",
+      "price": 35.209999084472656,
+      "date": "2011-10-12"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 351,
+      "type": "top",
+      "price": 35.209999084472656,
+      "date": "2011-10-12"
+    },
+    "end": {
+      "k_index": 354,
+      "type": "bottom",
+      "price": 33.63999938964844,
+      "date": "2011-10-18"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 354,
+      "type": "bottom",
+      "price": 33.63999938964844,
+      "date": "2011-10-18"
+    },
+    "end": {
+      "k_index": 366,
+      "type": "top",
+      "price": 38.34000015258789,
+      "date": "2011-11-07"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 366,
+      "type": "top",
+      "price": 38.34000015258789,
+      "date": "2011-11-07"
+    },
+    "end": {
+      "k_index": 374,
+      "type": "bottom",
+      "price": 35.599998474121094,
+      "date": "2011-11-21"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 374,
+      "type": "bottom",
+      "price": 35.599998474121094,
+      "date": "2011-11-21"
+    },
+    "end": {
+      "k_index": 380,
+      "type": "top",
+      "price": 39.75,
+      "date": "2011-12-05"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 380,
+      "type": "top",
+      "price": 39.75,
+      "date": "2011-12-05"
+    },
+    "end": {
+      "k_index": 384,
+      "type": "bottom",
+      "price": 37.86000061035156,
+      "date": "2011-12-14"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 384,
+      "type": "bottom",
+      "price": 37.86000061035156,
+      "date": "2011-12-14"
+    },
+    "end": {
+      "k_index": 390,
+      "type": "top",
+      "price": 40.52000045776367,
+      "date": "2012-01-03"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 390,
+      "type": "top",
+      "price": 40.52000045776367,
+      "date": "2012-01-03"
+    },
+    "end": {
+      "k_index": 397,
+      "type": "bottom",
+      "price": 39.060001373291016,
+      "date": "2012-01-18"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 397,
+      "type": "bottom",
+      "price": 39.060001373291016,
+      "date": "2012-01-18"
+    },
+    "end": {
+      "k_index": 407,
+      "type": "top",
+      "price": 41.18000030517578,
+      "date": "2012-02-07"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 407,
+      "type": "top",
+      "price": 41.18000030517578,
+      "date": "2012-02-07"
+    },
+    "end": {
+      "k_index": 412,
+      "type": "bottom",
+      "price": 39.68000030517578,
+      "date": "2012-02-14"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 412,
+      "type": "bottom",
+      "price": 39.68000030517578,
+      "date": "2012-02-14"
+    },
+    "end": {
+      "k_index": 435,
+      "type": "top",
+      "price": 47.52999877929688,
+      "date": "2012-03-27"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 435,
+      "type": "top",
+      "price": 47.52999877929688,
+      "date": "2012-03-27"
+    },
+    "end": {
+      "k_index": 440,
+      "type": "bottom",
+      "price": 46.02999877929688,
+      "date": "2012-04-10"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 440,
+      "type": "bottom",
+      "price": 46.02999877929688,
+      "date": "2012-04-10"
+    },
+    "end": {
+      "k_index": 449,
+      "type": "top",
+      "price": 49.65999984741211,
+      "date": "2012-04-27"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 449,
+      "type": "top",
+      "price": 49.65999984741211,
+      "date": "2012-04-27"
+    },
+    "end": {
+      "k_index": 454,
+      "type": "bottom",
+      "price": 48.09999847412109,
+      "date": "2012-05-10"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 454,
+      "type": "bottom",
+      "price": 48.09999847412109,
+      "date": "2012-05-10"
+    },
+    "end": {
+      "k_index": 458,
+      "type": "top",
+      "price": 49.2400016784668,
+      "date": "2012-05-16"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 458,
+      "type": "top",
+      "price": 49.2400016784668,
+      "date": "2012-05-16"
+    },
+    "end": {
+      "k_index": 461,
+      "type": "bottom",
+      "price": 47.130001068115234,
+      "date": "2012-05-21"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 461,
+      "type": "bottom",
+      "price": 47.130001068115234,
+      "date": "2012-05-21"
+    },
+    "end": {
+      "k_index": 464,
+      "type": "top",
+      "price": 48.36000061035156,
+      "date": "2012-05-24"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 464,
+      "type": "top",
+      "price": 48.36000061035156,
+      "date": "2012-05-24"
+    },
+    "end": {
+      "k_index": 470,
+      "type": "bottom",
+      "price": 45.84999847412109,
+      "date": "2012-06-05"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 470,
+      "type": "bottom",
+      "price": 45.84999847412109,
+      "date": "2012-06-05"
+    },
+    "end": {
+      "k_index": 479,
+      "type": "top",
+      "price": 49.25,
+      "date": "2012-06-20"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 479,
+      "type": "top",
+      "price": 49.25,
+      "date": "2012-06-20"
+    },
+    "end": {
+      "k_index": 483,
+      "type": "bottom",
+      "price": 47.0099983215332,
+      "date": "2012-06-26"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 483,
+      "type": "bottom",
+      "price": 47.0099983215332,
+      "date": "2012-06-26"
+    },
+    "end": {
+      "k_index": 487,
+      "type": "top",
+      "price": 50.65999984741211,
+      "date": "2012-07-05"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 487,
+      "type": "top",
+      "price": 50.65999984741211,
+      "date": "2012-07-05"
+    },
+    "end": {
+      "k_index": 491,
+      "type": "bottom",
+      "price": 49.310001373291016,
+      "date": "2012-07-11"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 491,
+      "type": "bottom",
+      "price": 49.310001373291016,
+      "date": "2012-07-11"
+    },
+    "end": {
+      "k_index": 495,
+      "type": "top",
+      "price": 51.0,
+      "date": "2012-07-18"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 495,
+      "type": "top",
+      "price": 51.0,
+      "date": "2012-07-18"
+    },
+    "end": {
+      "k_index": 498,
+      "type": "bottom",
+      "price": 48.33000183105469,
+      "date": "2012-07-25"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 498,
+      "type": "bottom",
+      "price": 48.33000183105469,
+      "date": "2012-07-25"
+    },
+    "end": {
+      "k_index": 501,
+      "type": "top",
+      "price": 50.959999084472656,
+      "date": "2012-07-30"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 501,
+      "type": "top",
+      "price": 50.959999084472656,
+      "date": "2012-07-30"
+    },
+    "end": {
+      "k_index": 504,
+      "type": "bottom",
+      "price": 46.0,
+      "date": "2012-08-08"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 504,
+      "type": "bottom",
+      "price": 46.0,
+      "date": "2012-08-08"
+    },
+    "end": {
+      "k_index": 510,
+      "type": "top",
+      "price": 49.380001068115234,
+      "date": "2012-08-20"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 510,
+      "type": "top",
+      "price": 49.380001068115234,
+      "date": "2012-08-20"
+    },
+    "end": {
+      "k_index": 520,
+      "type": "bottom",
+      "price": 47.470001220703125,
+      "date": "2012-09-05"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 520,
+      "type": "bottom",
+      "price": 47.470001220703125,
+      "date": "2012-09-05"
+    },
+    "end": {
+      "k_index": 524,
+      "type": "top",
+      "price": 48.290000915527344,
+      "date": "2012-09-13"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 524,
+      "type": "top",
+      "price": 48.290000915527344,
+      "date": "2012-09-13"
+    },
+    "end": {
+      "k_index": 529,
+      "type": "bottom",
+      "price": 46.25,
+      "date": "2012-09-25"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 529,
+      "type": "bottom",
+      "price": 46.25,
+      "date": "2012-09-25"
+    },
+    "end": {
+      "k_index": 535,
+      "type": "top",
+      "price": 48.41999816894531,
+      "date": "2012-10-08"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 535,
+      "type": "top",
+      "price": 48.41999816894531,
+      "date": "2012-10-08"
+    },
+    "end": {
+      "k_index": 545,
+      "type": "bottom",
+      "price": 45.040000915527344,
+      "date": "2012-10-23"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 545,
+      "type": "bottom",
+      "price": 45.040000915527344,
+      "date": "2012-10-23"
+    },
+    "end": {
+      "k_index": 549,
+      "type": "top",
+      "price": 52.130001068115234,
+      "date": "2012-11-01"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 549,
+      "type": "top",
+      "price": 52.130001068115234,
+      "date": "2012-11-01"
+    },
+    "end": {
+      "k_index": 557,
+      "type": "bottom",
+      "price": 47.369998931884766,
+      "date": "2012-11-16"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 557,
+      "type": "bottom",
+      "price": 47.369998931884766,
+      "date": "2012-11-16"
+    },
+    "end": {
+      "k_index": 564,
+      "type": "top",
+      "price": 49.9900016784668,
+      "date": "2012-12-04"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 564,
+      "type": "top",
+      "price": 49.9900016784668,
+      "date": "2012-12-04"
+    },
+    "end": {
+      "k_index": 570,
+      "type": "bottom",
+      "price": 48.79999923706055,
+      "date": "2012-12-14"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 570,
+      "type": "bottom",
+      "price": 48.79999923706055,
+      "date": "2012-12-14"
+    },
+    "end": {
+      "k_index": 573,
+      "type": "top",
+      "price": 51.369998931884766,
+      "date": "2012-12-20"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 573,
+      "type": "top",
+      "price": 51.369998931884766,
+      "date": "2012-12-20"
+    },
+    "end": {
+      "k_index": 576,
+      "type": "bottom",
+      "price": 49.0099983215332,
+      "date": "2012-12-28"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 576,
+      "type": "bottom",
+      "price": 49.0099983215332,
+      "date": "2012-12-28"
+    },
+    "end": {
+      "k_index": 591,
+      "type": "top",
+      "price": 55.77000045776367,
+      "date": "2013-01-28"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 591,
+      "type": "top",
+      "price": 55.77000045776367,
+      "date": "2013-01-28"
+    },
+    "end": {
+      "k_index": 603,
+      "type": "bottom",
+      "price": 53.5,
+      "date": "2013-02-21"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 603,
+      "type": "bottom",
+      "price": 53.5,
+      "date": "2013-02-21"
+    },
+    "end": {
+      "k_index": 606,
+      "type": "top",
+      "price": 60.290000915527344,
+      "date": "2013-03-04"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 606,
+      "type": "top",
+      "price": 60.290000915527344,
+      "date": "2013-03-04"
+    },
+    "end": {
+      "k_index": 611,
+      "type": "bottom",
+      "price": 58.41999816894531,
+      "date": "2013-03-13"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 611,
+      "type": "bottom",
+      "price": 58.41999816894531,
+      "date": "2013-03-13"
+    },
+    "end": {
+      "k_index": 616,
+      "type": "top",
+      "price": 61.880001068115234,
+      "date": "2013-04-01"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 616,
+      "type": "top",
+      "price": 61.880001068115234,
+      "date": "2013-04-01"
+    },
+    "end": {
+      "k_index": 620,
+      "type": "bottom",
+      "price": 58.41999816894531,
+      "date": "2013-04-05"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 620,
+      "type": "bottom",
+      "price": 58.41999816894531,
+      "date": "2013-04-05"
+    },
+    "end": {
+      "k_index": 624,
+      "type": "top",
+      "price": 61.47999954223633,
+      "date": "2013-04-11"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 624,
+      "type": "top",
+      "price": 61.47999954223633,
+      "date": "2013-04-11"
+    },
+    "end": {
+      "k_index": 629,
+      "type": "bottom",
+      "price": 58.720001220703125,
+      "date": "2013-04-22"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 629,
+      "type": "bottom",
+      "price": 58.720001220703125,
+      "date": "2013-04-22"
+    },
+    "end": {
+      "k_index": 634,
+      "type": "top",
+      "price": 62.38999938964844,
+      "date": "2013-05-01"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 634,
+      "type": "top",
+      "price": 62.38999938964844,
+      "date": "2013-05-01"
+    },
+    "end": {
+      "k_index": 642,
+      "type": "bottom",
+      "price": 58.619998931884766,
+      "date": "2013-05-21"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 642,
+      "type": "bottom",
+      "price": 58.619998931884766,
+      "date": "2013-05-21"
+    },
+    "end": {
+      "k_index": 647,
+      "type": "top",
+      "price": 59.65999984741211,
+      "date": "2013-05-30"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 647,
+      "type": "top",
+      "price": 59.65999984741211,
+      "date": "2013-05-30"
+    },
+    "end": {
+      "k_index": 651,
+      "type": "bottom",
+      "price": 57.5099983215332,
+      "date": "2013-06-06"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 651,
+      "type": "bottom",
+      "price": 57.5099983215332,
+      "date": "2013-06-06"
+    },
+    "end": {
+      "k_index": 669,
+      "type": "top",
+      "price": 63.45000076293945,
+      "date": "2013-07-12"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 669,
+      "type": "top",
+      "price": 63.45000076293945,
+      "date": "2013-07-12"
+    },
+    "end": {
+      "k_index": 677,
+      "type": "bottom",
+      "price": 60.65999984741211,
+      "date": "2013-07-30"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 677,
+      "type": "bottom",
+      "price": 60.65999984741211,
+      "date": "2013-07-30"
+    },
+    "end": {
+      "k_index": 683,
+      "type": "top",
+      "price": 63.7400016784668,
+      "date": "2013-08-09"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 683,
+      "type": "top",
+      "price": 63.7400016784668,
+      "date": "2013-08-09"
+    },
+    "end": {
+      "k_index": 688,
+      "type": "bottom",
+      "price": 61.0,
+      "date": "2013-08-19"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 688,
+      "type": "bottom",
+      "price": 61.0,
+      "date": "2013-08-19"
+    },
+    "end": {
+      "k_index": 702,
+      "type": "top",
+      "price": 66.7699966430664,
+      "date": "2013-09-19"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 702,
+      "type": "top",
+      "price": 66.7699966430664,
+      "date": "2013-09-19"
+    },
+    "end": {
+      "k_index": 712,
+      "type": "bottom",
+      "price": 63.290000915527344,
+      "date": "2013-10-03"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 712,
+      "type": "bottom",
+      "price": 63.290000915527344,
+      "date": "2013-10-03"
+    },
+    "end": {
+      "k_index": 724,
+      "type": "top",
+      "price": 69.08999633789062,
+      "date": "2013-10-24"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 724,
+      "type": "top",
+      "price": 69.08999633789062,
+      "date": "2013-10-24"
+    },
+    "end": {
+      "k_index": 728,
+      "type": "bottom",
+      "price": 60.15999984741211,
+      "date": "2013-11-06"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 728,
+      "type": "bottom",
+      "price": 60.15999984741211,
+      "date": "2013-11-06"
+    },
+    "end": {
+      "k_index": 744,
+      "type": "top",
+      "price": 67.33999633789062,
+      "date": "2013-12-09"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 744,
+      "type": "top",
+      "price": 67.33999633789062,
+      "date": "2013-12-09"
+    },
+    "end": {
+      "k_index": 747,
+      "type": "bottom",
+      "price": 64.04000091552734,
+      "date": "2013-12-12"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 747,
+      "type": "bottom",
+      "price": 64.04000091552734,
+      "date": "2013-12-12"
+    },
+    "end": {
+      "k_index": 753,
+      "type": "top",
+      "price": 66.86000061035156,
+      "date": "2013-12-24"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 753,
+      "type": "top",
+      "price": 66.86000061035156,
+      "date": "2013-12-24"
+    },
+    "end": {
+      "k_index": 761,
+      "type": "bottom",
+      "price": 62.310001373291016,
+      "date": "2014-01-14"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 761,
+      "type": "bottom",
+      "price": 62.310001373291016,
+      "date": "2014-01-14"
+    },
+    "end": {
+      "k_index": 764,
+      "type": "top",
+      "price": 64.2699966430664,
+      "date": "2014-01-22"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 764,
+      "type": "top",
+      "price": 64.2699966430664,
+      "date": "2014-01-22"
+    },
+    "end": {
+      "k_index": 774,
+      "type": "bottom",
+      "price": 61.79999923706055,
+      "date": "2014-02-10"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 774,
+      "type": "bottom",
+      "price": 61.79999923706055,
+      "date": "2014-02-10"
+    },
+    "end": {
+      "k_index": 781,
+      "type": "top",
+      "price": 66.29000091552734,
+      "date": "2014-02-21"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 781,
+      "type": "top",
+      "price": 66.29000091552734,
+      "date": "2014-02-21"
+    },
+    "end": {
+      "k_index": 788,
+      "type": "bottom",
+      "price": 61.88999938964844,
+      "date": "2014-03-06"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 788,
+      "type": "bottom",
+      "price": 61.88999938964844,
+      "date": "2014-03-06"
+    },
+    "end": {
+      "k_index": 791,
+      "type": "top",
+      "price": 64.61000061035156,
+      "date": "2014-03-11"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 791,
+      "type": "top",
+      "price": 64.61000061035156,
+      "date": "2014-03-11"
+    },
+    "end": {
+      "k_index": 810,
+      "type": "bottom",
+      "price": 56.369998931884766,
+      "date": "2014-04-14"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 810,
+      "type": "bottom",
+      "price": 56.369998931884766,
+      "date": "2014-04-14"
+    },
+    "end": {
+      "k_index": 820,
+      "type": "top",
+      "price": 61.18999862670898,
+      "date": "2014-05-01"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 820,
+      "type": "top",
+      "price": 61.18999862670898,
+      "date": "2014-05-01"
+    },
+    "end": {
+      "k_index": 824,
+      "type": "bottom",
+      "price": 59.11000061035156,
+      "date": "2014-05-07"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 824,
+      "type": "bottom",
+      "price": 59.11000061035156,
+      "date": "2014-05-07"
+    },
+    "end": {
+      "k_index": 827,
+      "type": "top",
+      "price": 61.68000030517578,
+      "date": "2014-05-13"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 827,
+      "type": "top",
+      "price": 61.68000030517578,
+      "date": "2014-05-13"
+    },
+    "end": {
+      "k_index": 832,
+      "type": "bottom",
+      "price": 60.52000045776367,
+      "date": "2014-05-21"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 832,
+      "type": "bottom",
+      "price": 60.52000045776367,
+      "date": "2014-05-21"
+    },
+    "end": {
+      "k_index": 835,
+      "type": "top",
+      "price": 61.25,
+      "date": "2014-05-28"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 835,
+      "type": "top",
+      "price": 61.25,
+      "date": "2014-05-28"
+    },
+    "end": {
+      "k_index": 838,
+      "type": "bottom",
+      "price": 59.11000061035156,
+      "date": "2014-06-02"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 838,
+      "type": "bottom",
+      "price": 59.11000061035156,
+      "date": "2014-06-02"
+    },
+    "end": {
+      "k_index": 844,
+      "type": "top",
+      "price": 61.91999816894531,
+      "date": "2014-06-10"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 844,
+      "type": "top",
+      "price": 61.91999816894531,
+      "date": "2014-06-10"
+    },
+    "end": {
+      "k_index": 853,
+      "type": "bottom",
+      "price": 58.75,
+      "date": "2014-06-26"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 853,
+      "type": "bottom",
+      "price": 58.75,
+      "date": "2014-06-26"
+    },
+    "end": {
+      "k_index": 867,
+      "type": "top",
+      "price": 63.400001525878906,
+      "date": "2014-07-24"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 867,
+      "type": "top",
+      "price": 63.400001525878906,
+      "date": "2014-07-24"
+    },
+    "end": {
+      "k_index": 875,
+      "type": "bottom",
+      "price": 58.79999923706055,
+      "date": "2014-08-06"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 875,
+      "type": "bottom",
+      "price": 58.79999923706055,
+      "date": "2014-08-06"
+    },
+    "end": {
+      "k_index": 887,
+      "type": "top",
+      "price": 64.94000244140625,
+      "date": "2014-09-02"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 887,
+      "type": "top",
+      "price": 64.94000244140625,
+      "date": "2014-09-02"
+    },
+    "end": {
+      "k_index": 892,
+      "type": "bottom",
+      "price": 63.75,
+      "date": "2014-09-09"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 892,
+      "type": "bottom",
+      "price": 63.75,
+      "date": "2014-09-09"
+    },
+    "end": {
+      "k_index": 897,
+      "type": "top",
+      "price": 65.0,
+      "date": "2014-09-19"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 897,
+      "type": "top",
+      "price": 65.0,
+      "date": "2014-09-19"
+    },
+    "end": {
+      "k_index": 906,
+      "type": "bottom",
+      "price": 59.540000915527344,
+      "date": "2014-10-02"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 906,
+      "type": "bottom",
+      "price": 59.540000915527344,
+      "date": "2014-10-02"
+    },
+    "end": {
+      "k_index": 909,
+      "type": "top",
+      "price": 60.63999938964844,
+      "date": "2014-10-09"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 909,
+      "type": "top",
+      "price": 60.63999938964844,
+      "date": "2014-10-09"
+    },
+    "end": {
+      "k_index": 913,
+      "type": "bottom",
+      "price": 57.970001220703125,
+      "date": "2014-10-15"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 913,
+      "type": "bottom",
+      "price": 57.970001220703125,
+      "date": "2014-10-15"
+    },
+    "end": {
+      "k_index": 930,
+      "type": "top",
+      "price": 64.43000030517578,
+      "date": "2014-11-10"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 930,
+      "type": "top",
+      "price": 64.43000030517578,
+      "date": "2014-11-10"
+    },
+    "end": {
+      "k_index": 937,
+      "type": "bottom",
+      "price": 61.77999877929688,
+      "date": "2014-11-20"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 937,
+      "type": "bottom",
+      "price": 61.77999877929688,
+      "date": "2014-11-20"
+    },
+    "end": {
+      "k_index": 940,
+      "type": "top",
+      "price": 62.84999847412109,
+      "date": "2014-11-25"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 940,
+      "type": "top",
+      "price": 62.84999847412109,
+      "date": "2014-11-25"
+    },
+    "end": {
+      "k_index": 943,
+      "type": "bottom",
+      "price": 61.70000076293945,
+      "date": "2014-12-01"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 943,
+      "type": "bottom",
+      "price": 61.70000076293945,
+      "date": "2014-12-01"
+    },
+    "end": {
+      "k_index": 947,
+      "type": "top",
+      "price": 63.58000183105469,
+      "date": "2014-12-08"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 947,
+      "type": "top",
+      "price": 63.58000183105469,
+      "date": "2014-12-08"
+    },
+    "end": {
+      "k_index": 950,
+      "type": "bottom",
+      "price": 61.720001220703125,
+      "date": "2014-12-12"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 950,
+      "type": "bottom",
+      "price": 61.720001220703125,
+      "date": "2014-12-12"
+    },
+    "end": {
+      "k_index": 957,
+      "type": "top",
+      "price": 65.62999725341797,
+      "date": "2014-12-23"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 957,
+      "type": "top",
+      "price": 65.62999725341797,
+      "date": "2014-12-23"
+    },
+    "end": {
+      "k_index": 967,
+      "type": "bottom",
+      "price": 62.27999877929688,
+      "date": "2015-01-16"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 967,
+      "type": "bottom",
+      "price": 62.27999877929688,
+      "date": "2015-01-16"
+    },
+    "end": {
+      "k_index": 971,
+      "type": "top",
+      "price": 65.33999633789062,
+      "date": "2015-01-26"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 971,
+      "type": "top",
+      "price": 65.33999633789062,
+      "date": "2015-01-26"
+    },
+    "end": {
+      "k_index": 974,
+      "type": "bottom",
+      "price": 63.619998931884766,
+      "date": "2015-01-30"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 974,
+      "type": "bottom",
+      "price": 63.619998931884766,
+      "date": "2015-01-30"
+    },
+    "end": {
+      "k_index": 978,
+      "type": "top",
+      "price": 67.0,
+      "date": "2015-02-06"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 978,
+      "type": "top",
+      "price": 67.0,
+      "date": "2015-02-06"
+    },
+    "end": {
+      "k_index": 981,
+      "type": "bottom",
+      "price": 65.55000305175781,
+      "date": "2015-02-11"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 981,
+      "type": "bottom",
+      "price": 65.55000305175781,
+      "date": "2015-02-11"
+    },
+    "end": {
+      "k_index": 989,
+      "type": "top",
+      "price": 74.75,
+      "date": "2015-02-27"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 989,
+      "type": "top",
+      "price": 74.75,
+      "date": "2015-02-27"
+    },
+    "end": {
+      "k_index": 994,
+      "type": "bottom",
+      "price": 69.04000091552734,
+      "date": "2015-03-12"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 994,
+      "type": "bottom",
+      "price": 69.04000091552734,
+      "date": "2015-03-12"
+    },
+    "end": {
+      "k_index": 998,
+      "type": "top",
+      "price": 71.97000122070312,
+      "date": "2015-03-19"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 998,
+      "type": "top",
+      "price": 71.97000122070312,
+      "date": "2015-03-19"
+    },
+    "end": {
+      "k_index": 1003,
+      "type": "bottom",
+      "price": 69.5,
+      "date": "2015-03-26"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1003,
+      "type": "bottom",
+      "price": 69.5,
+      "date": "2015-03-26"
+    },
+    "end": {
+      "k_index": 1010,
+      "type": "top",
+      "price": 73.2300033569336,
+      "date": "2015-04-10"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1010,
+      "type": "top",
+      "price": 73.2300033569336,
+      "date": "2015-04-10"
+    },
+    "end": {
+      "k_index": 1015,
+      "type": "bottom",
+      "price": 71.43000030517578,
+      "date": "2015-04-17"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1015,
+      "type": "bottom",
+      "price": 71.43000030517578,
+      "date": "2015-04-17"
+    },
+    "end": {
+      "k_index": 1023,
+      "type": "top",
+      "price": 78.08999633789062,
+      "date": "2015-04-29"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1023,
+      "type": "top",
+      "price": 78.08999633789062,
+      "date": "2015-04-29"
+    },
+    "end": {
+      "k_index": 1028,
+      "type": "bottom",
+      "price": 70.19999694824219,
+      "date": "2015-05-07"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1028,
+      "type": "bottom",
+      "price": 70.19999694824219,
+      "date": "2015-05-07"
+    },
+    "end": {
+      "k_index": 1031,
+      "type": "top",
+      "price": 74.22000122070312,
+      "date": "2015-05-15"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1031,
+      "type": "top",
+      "price": 74.22000122070312,
+      "date": "2015-05-15"
+    },
+    "end": {
+      "k_index": 1036,
+      "type": "bottom",
+      "price": 72.12999725341797,
+      "date": "2015-05-26"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1036,
+      "type": "bottom",
+      "price": 72.12999725341797,
+      "date": "2015-05-26"
+    },
+    "end": {
+      "k_index": 1050,
+      "type": "top",
+      "price": 75.69999694824219,
+      "date": "2015-06-23"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1050,
+      "type": "top",
+      "price": 75.69999694824219,
+      "date": "2015-06-23"
+    },
+    "end": {
+      "k_index": 1057,
+      "type": "bottom",
+      "price": 71.87999725341797,
+      "date": "2015-07-09"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1057,
+      "type": "bottom",
+      "price": 71.87999725341797,
+      "date": "2015-07-09"
+    },
+    "end": {
+      "k_index": 1062,
+      "type": "top",
+      "price": 75.94000244140625,
+      "date": "2015-07-20"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1062,
+      "type": "top",
+      "price": 75.94000244140625,
+      "date": "2015-07-20"
+    },
+    "end": {
+      "k_index": 1065,
+      "type": "bottom",
+      "price": 72.66000366210938,
+      "date": "2015-07-28"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1065,
+      "type": "bottom",
+      "price": 72.66000366210938,
+      "date": "2015-07-28"
+    },
+    "end": {
+      "k_index": 1069,
+      "type": "top",
+      "price": 78.12999725341797,
+      "date": "2015-08-10"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1069,
+      "type": "top",
+      "price": 78.12999725341797,
+      "date": "2015-08-10"
+    },
+    "end": {
+      "k_index": 1078,
+      "type": "bottom",
+      "price": 68.87000274658203,
+      "date": "2015-08-24"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1078,
+      "type": "bottom",
+      "price": 68.87000274658203,
+      "date": "2015-08-24"
+    },
+    "end": {
+      "k_index": 1081,
+      "type": "top",
+      "price": 74.69000244140625,
+      "date": "2015-08-28"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1081,
+      "type": "top",
+      "price": 74.69000244140625,
+      "date": "2015-08-28"
+    },
+    "end": {
+      "k_index": 1086,
+      "type": "bottom",
+      "price": 72.51000213623047,
+      "date": "2015-09-04"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1086,
+      "type": "bottom",
+      "price": 72.51000213623047,
+      "date": "2015-09-04"
+    },
+    "end": {
+      "k_index": 1101,
+      "type": "top",
+      "price": 82.0,
+      "date": "2015-10-06"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1101,
+      "type": "top",
+      "price": 82.0,
+      "date": "2015-10-06"
+    },
+    "end": {
+      "k_index": 1106,
+      "type": "bottom",
+      "price": 78.70999908447266,
+      "date": "2015-10-16"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1106,
+      "type": "bottom",
+      "price": 78.70999908447266,
+      "date": "2015-10-16"
+    },
+    "end": {
+      "k_index": 1109,
+      "type": "top",
+      "price": 81.80000305175781,
+      "date": "2015-10-26"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1109,
+      "type": "top",
+      "price": 81.80000305175781,
+      "date": "2015-10-26"
+    },
+    "end": {
+      "k_index": 1116,
+      "type": "bottom",
+      "price": 68.1500015258789,
+      "date": "2015-11-06"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1116,
+      "type": "bottom",
+      "price": 68.1500015258789,
+      "date": "2015-11-06"
+    },
+    "end": {
+      "k_index": 1136,
+      "type": "top",
+      "price": 79.04000091552734,
+      "date": "2015-12-16"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1136,
+      "type": "top",
+      "price": 79.04000091552734,
+      "date": "2015-12-16"
+    },
+    "end": {
+      "k_index": 1146,
+      "type": "bottom",
+      "price": 72.4800033569336,
+      "date": "2016-01-07"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1146,
+      "type": "bottom",
+      "price": 72.4800033569336,
+      "date": "2016-01-07"
+    },
+    "end": {
+      "k_index": 1149,
+      "type": "top",
+      "price": 74.87999725341797,
+      "date": "2016-01-12"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1149,
+      "type": "top",
+      "price": 74.87999725341797,
+      "date": "2016-01-12"
+    },
+    "end": {
+      "k_index": 1154,
+      "type": "bottom",
+      "price": 69.0999984741211,
+      "date": "2016-01-20"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1154,
+      "type": "bottom",
+      "price": 69.0999984741211,
+      "date": "2016-01-20"
+    },
+    "end": {
+      "k_index": 1159,
+      "type": "top",
+      "price": 73.66999816894531,
+      "date": "2016-02-01"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1159,
+      "type": "top",
+      "price": 73.66999816894531,
+      "date": "2016-02-01"
+    },
+    "end": {
+      "k_index": 1162,
+      "type": "bottom",
+      "price": 64.79000091552734,
+      "date": "2016-02-08"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1162,
+      "type": "bottom",
+      "price": 64.79000091552734,
+      "date": "2016-02-08"
+    },
+    "end": {
+      "k_index": 1168,
+      "type": "top",
+      "price": 69.80999755859375,
+      "date": "2016-02-18"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1168,
+      "type": "top",
+      "price": 69.80999755859375,
+      "date": "2016-02-18"
+    },
+    "end": {
+      "k_index": 1171,
+      "type": "bottom",
+      "price": 67.06999969482422,
+      "date": "2016-02-24"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1171,
+      "type": "bottom",
+      "price": 67.06999969482422,
+      "date": "2016-02-24"
+    },
+    "end": {
+      "k_index": 1177,
+      "type": "top",
+      "price": 77.2300033569336,
+      "date": "2016-03-07"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1177,
+      "type": "top",
+      "price": 77.2300033569336,
+      "date": "2016-03-07"
+    },
+    "end": {
+      "k_index": 1180,
+      "type": "bottom",
+      "price": 74.9000015258789,
+      "date": "2016-03-11"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1180,
+      "type": "bottom",
+      "price": 74.9000015258789,
+      "date": "2016-03-11"
+    },
+    "end": {
+      "k_index": 1190,
+      "type": "top",
+      "price": 81.58999633789062,
+      "date": "2016-04-04"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1190,
+      "type": "top",
+      "price": 81.58999633789062,
+      "date": "2016-04-04"
+    },
+    "end": {
+      "k_index": 1193,
+      "type": "bottom",
+      "price": 76.76000213623047,
+      "date": "2016-04-12"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1193,
+      "type": "bottom",
+      "price": 76.76000213623047,
+      "date": "2016-04-12"
+    },
+    "end": {
+      "k_index": 1198,
+      "type": "top",
+      "price": 79.01000213623047,
+      "date": "2016-04-19"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1198,
+      "type": "top",
+      "price": 79.01000213623047,
+      "date": "2016-04-19"
+    },
+    "end": {
+      "k_index": 1205,
+      "type": "bottom",
+      "price": 76.29000091552734,
+      "date": "2016-05-04"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1205,
+      "type": "bottom",
+      "price": 76.29000091552734,
+      "date": "2016-05-04"
+    },
+    "end": {
+      "k_index": 1208,
+      "type": "top",
+      "price": 78.83999633789062,
+      "date": "2016-05-10"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1208,
+      "type": "top",
+      "price": 78.83999633789062,
+      "date": "2016-05-10"
+    },
+    "end": {
+      "k_index": 1214,
+      "type": "bottom",
+      "price": 75.76000213623047,
+      "date": "2016-05-19"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1214,
+      "type": "bottom",
+      "price": 75.76000213623047,
+      "date": "2016-05-19"
+    },
+    "end": {
+      "k_index": 1222,
+      "type": "top",
+      "price": 80.16000366210938,
+      "date": "2016-06-07"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1222,
+      "type": "top",
+      "price": 80.16000366210938,
+      "date": "2016-06-07"
+    },
+    "end": {
+      "k_index": 1228,
+      "type": "bottom",
+      "price": 77.52999877929688,
+      "date": "2016-06-17"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1228,
+      "type": "bottom",
+      "price": 77.52999877929688,
+      "date": "2016-06-17"
+    },
+    "end": {
+      "k_index": 1245,
+      "type": "top",
+      "price": 86.0,
+      "date": "2016-07-15"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1245,
+      "type": "top",
+      "price": 86.0,
+      "date": "2016-07-15"
+    },
+    "end": {
+      "k_index": 1248,
+      "type": "bottom",
+      "price": 84.54000091552734,
+      "date": "2016-07-21"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1248,
+      "type": "bottom",
+      "price": 84.54000091552734,
+      "date": "2016-07-21"
+    },
+    "end": {
+      "k_index": 1252,
+      "type": "top",
+      "price": 85.61000061035156,
+      "date": "2016-07-29"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1252,
+      "type": "top",
+      "price": 85.61000061035156,
+      "date": "2016-07-29"
+    },
+    "end": {
+      "k_index": 1255,
+      "type": "bottom",
+      "price": 78.2699966430664,
+      "date": "2016-08-04"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1255,
+      "type": "bottom",
+      "price": 78.2699966430664,
+      "date": "2016-08-04"
+    },
+    "end": {
+      "k_index": 1259,
+      "type": "top",
+      "price": 82.0199966430664,
+      "date": "2016-08-11"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1259,
+      "type": "top",
+      "price": 82.0199966430664,
+      "date": "2016-08-11"
+    },
+    "end": {
+      "k_index": 1262,
+      "type": "bottom",
+      "price": 81.1500015258789,
+      "date": "2016-08-19"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1262,
+      "type": "bottom",
+      "price": 81.1500015258789,
+      "date": "2016-08-19"
+    },
+    "end": {
+      "k_index": 1267,
+      "type": "top",
+      "price": 84.22000122070312,
+      "date": "2016-09-07"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1267,
+      "type": "top",
+      "price": 84.22000122070312,
+      "date": "2016-09-07"
+    },
+    "end": {
+      "k_index": 1273,
+      "type": "bottom",
+      "price": 80.1500015258789,
+      "date": "2016-09-21"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1273,
+      "type": "bottom",
+      "price": 80.1500015258789,
+      "date": "2016-09-21"
+    },
+    "end": {
+      "k_index": 1277,
+      "type": "top",
+      "price": 82.18000030517578,
+      "date": "2016-09-30"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1277,
+      "type": "top",
+      "price": 82.18000030517578,
+      "date": "2016-09-30"
+    },
+    "end": {
+      "k_index": 1285,
+      "type": "bottom",
+      "price": 78.5999984741211,
+      "date": "2016-10-13"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1285,
+      "type": "bottom",
+      "price": 78.5999984741211,
+      "date": "2016-10-13"
+    },
+    "end": {
+      "k_index": 1289,
+      "type": "top",
+      "price": 82.58999633789062,
+      "date": "2016-10-26"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1289,
+      "type": "top",
+      "price": 82.58999633789062,
+      "date": "2016-10-26"
+    },
+    "end": {
+      "k_index": 1292,
+      "type": "bottom",
+      "price": 80.66999816894531,
+      "date": "2016-11-01"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1292,
+      "type": "bottom",
+      "price": 80.66999816894531,
+      "date": "2016-11-01"
+    },
+    "end": {
+      "k_index": 1297,
+      "type": "top",
+      "price": 84.29000091552734,
+      "date": "2016-11-11"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1297,
+      "type": "top",
+      "price": 84.29000091552734,
+      "date": "2016-11-11"
+    },
+    "end": {
+      "k_index": 1300,
+      "type": "bottom",
+      "price": 82.05999755859375,
+      "date": "2016-11-17"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1300,
+      "type": "bottom",
+      "price": 82.05999755859375,
+      "date": "2016-11-17"
+    },
+    "end": {
+      "k_index": 1305,
+      "type": "top",
+      "price": 84.8499984741211,
+      "date": "2016-11-28"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1305,
+      "type": "top",
+      "price": 84.8499984741211,
+      "date": "2016-11-28"
+    },
+    "end": {
+      "k_index": 1308,
+      "type": "bottom",
+      "price": 81.6500015258789,
+      "date": "2016-12-02"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1308,
+      "type": "bottom",
+      "price": 81.6500015258789,
+      "date": "2016-12-02"
+    },
+    "end": {
+      "k_index": 1315,
+      "type": "top",
+      "price": 83.94999694824219,
+      "date": "2016-12-13"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1315,
+      "type": "top",
+      "price": 83.94999694824219,
+      "date": "2016-12-13"
+    },
+    "end": {
+      "k_index": 1318,
+      "type": "bottom",
+      "price": 80.9000015258789,
+      "date": "2016-12-16"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1318,
+      "type": "bottom",
+      "price": 80.9000015258789,
+      "date": "2016-12-16"
+    },
+    "end": {
+      "k_index": 1322,
+      "type": "top",
+      "price": 82.97000122070312,
+      "date": "2016-12-27"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1322,
+      "type": "top",
+      "price": 82.97000122070312,
+      "date": "2016-12-27"
+    },
+    "end": {
+      "k_index": 1325,
+      "type": "bottom",
+      "price": 80.95999908447266,
+      "date": "2016-12-30"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1325,
+      "type": "bottom",
+      "price": 80.95999908447266,
+      "date": "2016-12-30"
+    },
+    "end": {
+      "k_index": 1334,
+      "type": "top",
+      "price": 83.0199966430664,
+      "date": "2017-01-25"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1334,
+      "type": "top",
+      "price": 83.0199966430664,
+      "date": "2017-01-25"
+    },
+    "end": {
+      "k_index": 1338,
+      "type": "bottom",
+      "price": 81.30999755859375,
+      "date": "2017-02-02"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1338,
+      "type": "bottom",
+      "price": 81.30999755859375,
+      "date": "2017-02-02"
+    },
+    "end": {
+      "k_index": 1345,
+      "type": "top",
+      "price": 87.4000015258789,
+      "date": "2017-02-22"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1345,
+      "type": "top",
+      "price": 87.4000015258789,
+      "date": "2017-02-22"
+    },
+    "end": {
+      "k_index": 1356,
+      "type": "bottom",
+      "price": 79.08999633789062,
+      "date": "2017-03-14"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1356,
+      "type": "bottom",
+      "price": 79.08999633789062,
+      "date": "2017-03-14"
+    },
+    "end": {
+      "k_index": 1365,
+      "type": "top",
+      "price": 81.61000061035156,
+      "date": "2017-03-31"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1365,
+      "type": "top",
+      "price": 81.61000061035156,
+      "date": "2017-03-31"
+    },
+    "end": {
+      "k_index": 1369,
+      "type": "bottom",
+      "price": 78.69000244140625,
+      "date": "2017-04-12"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1369,
+      "type": "bottom",
+      "price": 78.69000244140625,
+      "date": "2017-04-12"
+    },
+    "end": {
+      "k_index": 1378,
+      "type": "top",
+      "price": 83.69000244140625,
+      "date": "2017-04-27"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1378,
+      "type": "top",
+      "price": 83.69000244140625,
+      "date": "2017-04-27"
+    },
+    "end": {
+      "k_index": 1381,
+      "type": "bottom",
+      "price": 75.5999984741211,
+      "date": "2017-05-04"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1381,
+      "type": "bottom",
+      "price": 75.5999984741211,
+      "date": "2017-05-04"
+    },
+    "end": {
+      "k_index": 1398,
+      "type": "top",
+      "price": 82.20999908447266,
+      "date": "2017-06-05"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1398,
+      "type": "top",
+      "price": 82.20999908447266,
+      "date": "2017-06-05"
+    },
+    "end": {
+      "k_index": 1401,
+      "type": "bottom",
+      "price": 79.86000061035156,
+      "date": "2017-06-12"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1401,
+      "type": "bottom",
+      "price": 79.86000061035156,
+      "date": "2017-06-12"
+    },
+    "end": {
+      "k_index": 1408,
+      "type": "top",
+      "price": 84.18000030517578,
+      "date": "2017-06-21"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1408,
+      "type": "top",
+      "price": 84.18000030517578,
+      "date": "2017-06-21"
+    },
+    "end": {
+      "k_index": 1412,
+      "type": "bottom",
+      "price": 82.30000305175781,
+      "date": "2017-06-27"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1412,
+      "type": "bottom",
+      "price": 82.30000305175781,
+      "date": "2017-06-27"
+    },
+    "end": {
+      "k_index": 1415,
+      "type": "top",
+      "price": 84.95999908447266,
+      "date": "2017-07-03"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1415,
+      "type": "top",
+      "price": 84.95999908447266,
+      "date": "2017-07-03"
+    },
+    "end": {
+      "k_index": 1419,
+      "type": "bottom",
+      "price": 82.94000244140625,
+      "date": "2017-07-11"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1419,
+      "type": "bottom",
+      "price": 82.94000244140625,
+      "date": "2017-07-11"
+    },
+    "end": {
+      "k_index": 1426,
+      "type": "top",
+      "price": 88.16999816894531,
+      "date": "2017-08-01"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1426,
+      "type": "top",
+      "price": 88.16999816894531,
+      "date": "2017-08-01"
+    },
+    "end": {
+      "k_index": 1442,
+      "type": "bottom",
+      "price": 78.97000122070312,
+      "date": "2017-08-29"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1442,
+      "type": "bottom",
+      "price": 78.97000122070312,
+      "date": "2017-08-29"
+    },
+    "end": {
+      "k_index": 1448,
+      "type": "top",
+      "price": 83.0,
+      "date": "2017-09-12"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1448,
+      "type": "top",
+      "price": 83.0,
+      "date": "2017-09-12"
+    },
+    "end": {
+      "k_index": 1455,
+      "type": "bottom",
+      "price": 81.48999786376953,
+      "date": "2017-09-28"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1455,
+      "type": "bottom",
+      "price": 81.48999786376953,
+      "date": "2017-09-28"
+    },
+    "end": {
+      "k_index": 1465,
+      "type": "top",
+      "price": 85.37000274658203,
+      "date": "2017-10-20"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1465,
+      "type": "top",
+      "price": 85.37000274658203,
+      "date": "2017-10-20"
+    },
+    "end": {
+      "k_index": 1468,
+      "type": "bottom",
+      "price": 83.95999908447266,
+      "date": "2017-10-25"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1468,
+      "type": "bottom",
+      "price": 83.95999908447266,
+      "date": "2017-10-25"
+    },
+    "end": {
+      "k_index": 1475,
+      "type": "top",
+      "price": 92.91999816894533,
+      "date": "2017-11-08"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1475,
+      "type": "top",
+      "price": 92.91999816894533,
+      "date": "2017-11-08"
+    },
+    "end": {
+      "k_index": 1478,
+      "type": "bottom",
+      "price": 89.6500015258789,
+      "date": "2017-11-13"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1478,
+      "type": "bottom",
+      "price": 89.6500015258789,
+      "date": "2017-11-13"
+    },
+    "end": {
+      "k_index": 1487,
+      "type": "top",
+      "price": 98.5999984741211,
+      "date": "2017-12-05"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1487,
+      "type": "top",
+      "price": 98.5999984741211,
+      "date": "2017-12-05"
+    },
+    "end": {
+      "k_index": 1490,
+      "type": "bottom",
+      "price": 93.7300033569336,
+      "date": "2017-12-12"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1490,
+      "type": "bottom",
+      "price": 93.7300033569336,
+      "date": "2017-12-12"
+    },
+    "end": {
+      "k_index": 1496,
+      "type": "top",
+      "price": 97.08999633789062,
+      "date": "2017-12-20"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1496,
+      "type": "top",
+      "price": 97.08999633789062,
+      "date": "2017-12-20"
+    },
+    "end": {
+      "k_index": 1503,
+      "type": "bottom",
+      "price": 95.26000213623048,
+      "date": "2018-01-03"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1503,
+      "type": "bottom",
+      "price": 95.26000213623048,
+      "date": "2018-01-03"
+    },
+    "end": {
+      "k_index": 1506,
+      "type": "top",
+      "price": 97.55999755859376,
+      "date": "2018-01-08"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1506,
+      "type": "top",
+      "price": 97.55999755859376,
+      "date": "2018-01-08"
+    },
+    "end": {
+      "k_index": 1509,
+      "type": "bottom",
+      "price": 96.02999877929688,
+      "date": "2018-01-11"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1509,
+      "type": "bottom",
+      "price": 96.02999877929688,
+      "date": "2018-01-11"
+    },
+    "end": {
+      "k_index": 1516,
+      "type": "top",
+      "price": 99.91999816894533,
+      "date": "2018-01-24"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1516,
+      "type": "top",
+      "price": 99.91999816894533,
+      "date": "2018-01-24"
+    },
+    "end": {
+      "k_index": 1527,
+      "type": "bottom",
+      "price": 90.5999984741211,
+      "date": "2018-02-09"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1527,
+      "type": "bottom",
+      "price": 90.5999984741211,
+      "date": "2018-02-09"
+    },
+    "end": {
+      "k_index": 1537,
+      "type": "top",
+      "price": 103.86000061035156,
+      "date": "2018-02-27"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1537,
+      "type": "top",
+      "price": 103.86000061035156,
+      "date": "2018-02-27"
+    },
+    "end": {
+      "k_index": 1540,
+      "type": "bottom",
+      "price": 99.3000030517578,
+      "date": "2018-03-02"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1540,
+      "type": "bottom",
+      "price": 99.3000030517578,
+      "date": "2018-03-02"
+    },
+    "end": {
+      "k_index": 1545,
+      "type": "top",
+      "price": 106.06999969482422,
+      "date": "2018-03-13"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1545,
+      "type": "top",
+      "price": 106.06999969482422,
+      "date": "2018-03-13"
+    },
+    "end": {
+      "k_index": 1556,
+      "type": "bottom",
+      "price": 100.31999969482422,
+      "date": "2018-04-02"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1556,
+      "type": "bottom",
+      "price": 100.31999969482422,
+      "date": "2018-04-02"
+    },
+    "end": {
+      "k_index": 1568,
+      "type": "top",
+      "price": 108.58000183105467,
+      "date": "2018-04-23"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1568,
+      "type": "top",
+      "price": 108.58000183105467,
+      "date": "2018-04-23"
+    },
+    "end": {
+      "k_index": 1574,
+      "type": "bottom",
+      "price": 95.20999908447266,
+      "date": "2018-05-03"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1574,
+      "type": "bottom",
+      "price": 95.20999908447266,
+      "date": "2018-05-03"
+    },
+    "end": {
+      "k_index": 1583,
+      "type": "top",
+      "price": 107.41999816894533,
+      "date": "2018-05-22"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1583,
+      "type": "top",
+      "price": 107.41999816894533,
+      "date": "2018-05-22"
+    },
+    "end": {
+      "k_index": 1586,
+      "type": "bottom",
+      "price": 104.45999908447266,
+      "date": "2018-05-29"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1586,
+      "type": "bottom",
+      "price": 104.45999908447266,
+      "date": "2018-05-29"
+    },
+    "end": {
+      "k_index": 1594,
+      "type": "top",
+      "price": 110.31999969482422,
+      "date": "2018-06-14"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1594,
+      "type": "top",
+      "price": 110.31999969482422,
+      "date": "2018-06-14"
+    },
+    "end": {
+      "k_index": 1601,
+      "type": "bottom",
+      "price": 105.43000030517578,
+      "date": "2018-06-28"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1601,
+      "type": "bottom",
+      "price": 105.43000030517578,
+      "date": "2018-06-28"
+    },
+    "end": {
+      "k_index": 1608,
+      "type": "top",
+      "price": 113.29000091552734,
+      "date": "2018-07-13"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1608,
+      "type": "top",
+      "price": 113.29000091552734,
+      "date": "2018-07-13"
+    },
+    "end": {
+      "k_index": 1612,
+      "type": "bottom",
+      "price": 110.4800033569336,
+      "date": "2018-07-20"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1612,
+      "type": "bottom",
+      "price": 110.4800033569336,
+      "date": "2018-07-20"
+    },
+    "end": {
+      "k_index": 1615,
+      "type": "top",
+      "price": 115.0999984741211,
+      "date": "2018-07-26"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1615,
+      "type": "top",
+      "price": 115.0999984741211,
+      "date": "2018-07-26"
+    },
+    "end": {
+      "k_index": 1619,
+      "type": "bottom",
+      "price": 112.73999786376952,
+      "date": "2018-08-03"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1619,
+      "type": "bottom",
+      "price": 112.73999786376952,
+      "date": "2018-08-03"
+    },
+    "end": {
+      "k_index": 1623,
+      "type": "top",
+      "price": 118.12999725341795,
+      "date": "2018-08-09"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1623,
+      "type": "top",
+      "price": 118.12999725341795,
+      "date": "2018-08-09"
+    },
+    "end": {
+      "k_index": 1627,
+      "type": "bottom",
+      "price": 116.16000366210938,
+      "date": "2018-08-15"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1627,
+      "type": "bottom",
+      "price": 116.16000366210938,
+      "date": "2018-08-15"
+    },
+    "end": {
+      "k_index": 1641,
+      "type": "top",
+      "price": 122.8000030517578,
+      "date": "2018-09-13"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1641,
+      "type": "top",
+      "price": 122.8000030517578,
+      "date": "2018-09-13"
+    },
+    "end": {
+      "k_index": 1647,
+      "type": "bottom",
+      "price": 118.80999755859376,
+      "date": "2018-09-24"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1647,
+      "type": "bottom",
+      "price": 118.80999755859376,
+      "date": "2018-09-24"
+    },
+    "end": {
+      "k_index": 1651,
+      "type": "top",
+      "price": 121.6500015258789,
+      "date": "2018-10-03"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1651,
+      "type": "top",
+      "price": 121.6500015258789,
+      "date": "2018-10-03"
+    },
+    "end": {
+      "k_index": 1655,
+      "type": "bottom",
+      "price": 112.6500015258789,
+      "date": "2018-10-15"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1655,
+      "type": "bottom",
+      "price": 112.6500015258789,
+      "date": "2018-10-15"
+    },
+    "end": {
+      "k_index": 1673,
+      "type": "top",
+      "price": 124.5,
+      "date": "2018-11-19"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1673,
+      "type": "top",
+      "price": 124.5,
+      "date": "2018-11-19"
+    },
+    "end": {
+      "k_index": 1676,
+      "type": "bottom",
+      "price": 119.05999755859376,
+      "date": "2018-11-23"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1676,
+      "type": "bottom",
+      "price": 119.05999755859376,
+      "date": "2018-11-23"
+    },
+    "end": {
+      "k_index": 1679,
+      "type": "top",
+      "price": 124.83000183105467,
+      "date": "2018-11-29"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1679,
+      "type": "top",
+      "price": 124.83000183105467,
+      "date": "2018-11-29"
+    },
+    "end": {
+      "k_index": 1692,
+      "type": "bottom",
+      "price": 102.73999786376952,
+      "date": "2018-12-26"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1692,
+      "type": "bottom",
+      "price": 102.73999786376952,
+      "date": "2018-12-26"
+    },
+    "end": {
+      "k_index": 1756,
+      "type": "top",
+      "price": 143.6699981689453,
+      "date": "2019-05-06"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1756,
+      "type": "top",
+      "price": 143.6699981689453,
+      "date": "2019-05-06"
+    },
+    "end": {
+      "k_index": 1760,
+      "type": "bottom",
+      "price": 137.74000549316406,
+      "date": "2019-05-13"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1760,
+      "type": "bottom",
+      "price": 137.74000549316406,
+      "date": "2019-05-13"
+    },
+    "end": {
+      "k_index": 1765,
+      "type": "top",
+      "price": 144.47999572753906,
+      "date": "2019-05-22"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1765,
+      "type": "top",
+      "price": 144.47999572753906,
+      "date": "2019-05-22"
+    },
+    "end": {
+      "k_index": 1768,
+      "type": "bottom",
+      "price": 139.19000244140625,
+      "date": "2019-05-31"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1768,
+      "type": "bottom",
+      "price": 139.19000244140625,
+      "date": "2019-05-31"
+    },
+    "end": {
+      "k_index": 1774,
+      "type": "top",
+      "price": 147.94000244140625,
+      "date": "2019-06-11"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1774,
+      "type": "top",
+      "price": 147.94000244140625,
+      "date": "2019-06-11"
+    },
+    "end": {
+      "k_index": 1783,
+      "type": "bottom",
+      "price": 142.61000061035156,
+      "date": "2019-06-27"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1783,
+      "type": "bottom",
+      "price": 142.61000061035156,
+      "date": "2019-06-27"
+    },
+    "end": {
+      "k_index": 1795,
+      "type": "top",
+      "price": 153.82000732421875,
+      "date": "2019-07-19"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1795,
+      "type": "top",
+      "price": 153.82000732421875,
+      "date": "2019-07-19"
+    },
+    "end": {
+      "k_index": 1803,
+      "type": "bottom",
+      "price": 148.42999267578125,
+      "date": "2019-08-05"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1803,
+      "type": "bottom",
+      "price": 148.42999267578125,
+      "date": "2019-08-05"
+    },
+    "end": {
+      "k_index": 1820,
+      "type": "top",
+      "price": 164.97000122070312,
+      "date": "2019-09-06"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1820,
+      "type": "top",
+      "price": 164.97000122070312,
+      "date": "2019-09-06"
+    },
+    "end": {
+      "k_index": 1823,
+      "type": "bottom",
+      "price": 153.02999877929688,
+      "date": "2019-09-11"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1823,
+      "type": "bottom",
+      "price": 153.02999877929688,
+      "date": "2019-09-11"
+    },
+    "end": {
+      "k_index": 1829,
+      "type": "top",
+      "price": 159.94000244140625,
+      "date": "2019-09-19"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1829,
+      "type": "top",
+      "price": 159.94000244140625,
+      "date": "2019-09-19"
+    },
+    "end": {
+      "k_index": 1836,
+      "type": "bottom",
+      "price": 151.8800048828125,
+      "date": "2019-10-03"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1836,
+      "type": "bottom",
+      "price": 151.8800048828125,
+      "date": "2019-10-03"
+    },
+    "end": {
+      "k_index": 1841,
+      "type": "top",
+      "price": 159.57000732421875,
+      "date": "2019-10-11"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1841,
+      "type": "top",
+      "price": 159.57000732421875,
+      "date": "2019-10-11"
+    },
+    "end": {
+      "k_index": 1857,
+      "type": "bottom",
+      "price": 135.39999389648438,
+      "date": "2019-11-11"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1857,
+      "type": "bottom",
+      "price": 135.39999389648438,
+      "date": "2019-11-11"
+    },
+    "end": {
+      "k_index": 1868,
+      "type": "top",
+      "price": 148.97000122070312,
+      "date": "2019-11-29"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1868,
+      "type": "top",
+      "price": 148.97000122070312,
+      "date": "2019-11-29"
+    },
+    "end": {
+      "k_index": 1875,
+      "type": "bottom",
+      "price": 146.30999755859375,
+      "date": "2019-12-12"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1875,
+      "type": "bottom",
+      "price": 146.30999755859375,
+      "date": "2019-12-12"
+    },
+    "end": {
+      "k_index": 1878,
+      "type": "top",
+      "price": 151.49000549316406,
+      "date": "2019-12-18"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1878,
+      "type": "top",
+      "price": 151.49000549316406,
+      "date": "2019-12-18"
+    },
+    "end": {
+      "k_index": 1883,
+      "type": "bottom",
+      "price": 146.44000244140625,
+      "date": "2019-12-30"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1883,
+      "type": "bottom",
+      "price": 146.44000244140625,
+      "date": "2019-12-30"
+    },
+    "end": {
+      "k_index": 1898,
+      "type": "top",
+      "price": 165.9499969482422,
+      "date": "2020-01-24"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1898,
+      "type": "top",
+      "price": 165.9499969482422,
+      "date": "2020-01-24"
+    },
+    "end": {
+      "k_index": 1902,
+      "type": "bottom",
+      "price": 162.0,
+      "date": "2020-01-31"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1902,
+      "type": "bottom",
+      "price": 162.0,
+      "date": "2020-01-31"
+    },
+    "end": {
+      "k_index": 1910,
+      "type": "top",
+      "price": 171.72999572753906,
+      "date": "2020-02-18"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1910,
+      "type": "top",
+      "price": 171.72999572753906,
+      "date": "2020-02-18"
+    },
+    "end": {
+      "k_index": 1914,
+      "type": "bottom",
+      "price": 148.7100067138672,
+      "date": "2020-02-28"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1914,
+      "type": "bottom",
+      "price": 148.7100067138672,
+      "date": "2020-02-28"
+    },
+    "end": {
+      "k_index": 1917,
+      "type": "top",
+      "price": 169.86000061035156,
+      "date": "2020-03-05"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1917,
+      "type": "top",
+      "price": 169.86000061035156,
+      "date": "2020-03-05"
+    },
+    "end": {
+      "k_index": 1927,
+      "type": "bottom",
+      "price": 116.61000061035156,
+      "date": "2020-03-23"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1927,
+      "type": "bottom",
+      "price": 116.61000061035156,
+      "date": "2020-03-23"
+    },
+    "end": {
+      "k_index": 1935,
+      "type": "top",
+      "price": 152.88999938964844,
+      "date": "2020-04-09"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1935,
+      "type": "top",
+      "price": 152.88999938964844,
+      "date": "2020-04-09"
+    },
+    "end": {
+      "k_index": 1942,
+      "type": "bottom",
+      "price": 144.5500030517578,
+      "date": "2020-04-21"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1942,
+      "type": "bottom",
+      "price": 144.5500030517578,
+      "date": "2020-04-21"
+    },
+    "end": {
+      "k_index": 1950,
+      "type": "top",
+      "price": 161.74000549316406,
+      "date": "2020-05-08"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1950,
+      "type": "top",
+      "price": 161.74000549316406,
+      "date": "2020-05-08"
+    },
+    "end": {
+      "k_index": 1954,
+      "type": "bottom",
+      "price": 151.17999267578125,
+      "date": "2020-05-15"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1954,
+      "type": "bottom",
+      "price": 151.17999267578125,
+      "date": "2020-05-15"
+    },
+    "end": {
+      "k_index": 1965,
+      "type": "top",
+      "price": 173.77000427246094,
+      "date": "2020-06-03"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1965,
+      "type": "top",
+      "price": 173.77000427246094,
+      "date": "2020-06-03"
+    },
+    "end": {
+      "k_index": 1973,
+      "type": "bottom",
+      "price": 159.1699981689453,
+      "date": "2020-06-15"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1973,
+      "type": "bottom",
+      "price": 159.1699981689453,
+      "date": "2020-06-15"
+    },
+    "end": {
+      "k_index": 1977,
+      "type": "top",
+      "price": 169.3699951171875,
+      "date": "2020-06-23"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1977,
+      "type": "top",
+      "price": 169.3699951171875,
+      "date": "2020-06-23"
+    },
+    "end": {
+      "k_index": 1980,
+      "type": "bottom",
+      "price": 161.10000610351562,
+      "date": "2020-06-29"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1980,
+      "type": "bottom",
+      "price": 161.10000610351562,
+      "date": "2020-06-29"
+    },
+    "end": {
+      "k_index": 1984,
+      "type": "top",
+      "price": 176.47999572753906,
+      "date": "2020-07-06"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 1984,
+      "type": "top",
+      "price": 176.47999572753906,
+      "date": "2020-07-06"
+    },
+    "end": {
+      "k_index": 1988,
+      "type": "bottom",
+      "price": 169.7100067138672,
+      "date": "2020-07-14"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 1988,
+      "type": "bottom",
+      "price": 169.7100067138672,
+      "date": "2020-07-14"
+    },
+    "end": {
+      "k_index": 2002,
+      "type": "top",
+      "price": 192.3999938964844,
+      "date": "2020-08-13"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2002,
+      "type": "top",
+      "price": 192.3999938964844,
+      "date": "2020-08-13"
+    },
+    "end": {
+      "k_index": 2008,
+      "type": "bottom",
+      "price": 184.22000122070312,
+      "date": "2020-08-25"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2008,
+      "type": "bottom",
+      "price": 184.22000122070312,
+      "date": "2020-08-25"
+    },
+    "end": {
+      "k_index": 2013,
+      "type": "top",
+      "price": 193.6100006103516,
+      "date": "2020-09-02"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2013,
+      "type": "top",
+      "price": 193.6100006103516,
+      "date": "2020-09-02"
+    },
+    "end": {
+      "k_index": 2016,
+      "type": "bottom",
+      "price": 177.55999755859375,
+      "date": "2020-09-08"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2016,
+      "type": "bottom",
+      "price": 177.55999755859375,
+      "date": "2020-09-08"
+    },
+    "end": {
+      "k_index": 2022,
+      "type": "top",
+      "price": 189.7700042724609,
+      "date": "2020-09-16"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2022,
+      "type": "top",
+      "price": 189.7700042724609,
+      "date": "2020-09-16"
+    },
+    "end": {
+      "k_index": 2027,
+      "type": "bottom",
+      "price": 175.3699951171875,
+      "date": "2020-09-24"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2027,
+      "type": "bottom",
+      "price": 175.3699951171875,
+      "date": "2020-09-24"
+    },
+    "end": {
+      "k_index": 2032,
+      "type": "top",
+      "price": 188.72999572753903,
+      "date": "2020-10-01"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2032,
+      "type": "top",
+      "price": 188.72999572753903,
+      "date": "2020-10-01"
+    },
+    "end": {
+      "k_index": 2035,
+      "type": "bottom",
+      "price": 179.5,
+      "date": "2020-10-06"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2035,
+      "type": "bottom",
+      "price": 179.5,
+      "date": "2020-10-06"
+    },
+    "end": {
+      "k_index": 2040,
+      "type": "top",
+      "price": 195.1000061035156,
+      "date": "2020-10-14"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2040,
+      "type": "top",
+      "price": 195.1000061035156,
+      "date": "2020-10-14"
+    },
+    "end": {
+      "k_index": 2046,
+      "type": "bottom",
+      "price": 174.82000732421875,
+      "date": "2020-10-30"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2046,
+      "type": "bottom",
+      "price": 174.82000732421875,
+      "date": "2020-10-30"
+    },
+    "end": {
+      "k_index": 2056,
+      "type": "top",
+      "price": 206.8300018310547,
+      "date": "2020-11-19"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2056,
+      "type": "top",
+      "price": 206.8300018310547,
+      "date": "2020-11-19"
+    },
+    "end": {
+      "k_index": 2060,
+      "type": "bottom",
+      "price": 194.3000030517578,
+      "date": "2020-11-25"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2060,
+      "type": "bottom",
+      "price": 194.3000030517578,
+      "date": "2020-11-25"
+    },
+    "end": {
+      "k_index": 2073,
+      "type": "top",
+      "price": 210.6600036621093,
+      "date": "2020-12-31"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2073,
+      "type": "top",
+      "price": 210.6600036621093,
+      "date": "2020-12-31"
+    },
+    "end": {
+      "k_index": 2089,
+      "type": "bottom",
+      "price": 182.5200042724609,
+      "date": "2021-01-29"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2089,
+      "type": "bottom",
+      "price": 182.5200042724609,
+      "date": "2021-01-29"
+    },
+    "end": {
+      "k_index": 2095,
+      "type": "top",
+      "price": 192.32000732421875,
+      "date": "2021-02-10"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2095,
+      "type": "top",
+      "price": 192.32000732421875,
+      "date": "2021-02-10"
+    },
+    "end": {
+      "k_index": 2108,
+      "type": "bottom",
+      "price": 159.7899932861328,
+      "date": "2021-03-04"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2108,
+      "type": "bottom",
+      "price": 159.7899932861328,
+      "date": "2021-03-04"
+    },
+    "end": {
+      "k_index": 2137,
+      "type": "top",
+      "price": 189.7899932861328,
+      "date": "2021-04-26"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2137,
+      "type": "top",
+      "price": 189.7899932861328,
+      "date": "2021-04-26"
+    },
+    "end": {
+      "k_index": 2153,
+      "type": "bottom",
+      "price": 169.02999877929688,
+      "date": "2021-05-19"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2153,
+      "type": "bottom",
+      "price": 169.02999877929688,
+      "date": "2021-05-19"
+    },
+    "end": {
+      "k_index": 2156,
+      "type": "top",
+      "price": 175.2100067138672,
+      "date": "2021-05-25"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2156,
+      "type": "top",
+      "price": 175.2100067138672,
+      "date": "2021-05-25"
+    },
+    "end": {
+      "k_index": 2163,
+      "type": "bottom",
+      "price": 167.3699951171875,
+      "date": "2021-06-08"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2163,
+      "type": "bottom",
+      "price": 167.3699951171875,
+      "date": "2021-06-08"
+    },
+    "end": {
+      "k_index": 2171,
+      "type": "top",
+      "price": 176.6300048828125,
+      "date": "2021-06-22"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2171,
+      "type": "top",
+      "price": 176.6300048828125,
+      "date": "2021-06-22"
+    },
+    "end": {
+      "k_index": 2175,
+      "type": "bottom",
+      "price": 173.75999450683594,
+      "date": "2021-06-30"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2175,
+      "type": "bottom",
+      "price": 173.75999450683594,
+      "date": "2021-06-30"
+    },
+    "end": {
+      "k_index": 2184,
+      "type": "top",
+      "price": 189.1699981689453,
+      "date": "2021-07-16"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2184,
+      "type": "top",
+      "price": 189.1699981689453,
+      "date": "2021-07-16"
+    },
+    "end": {
+      "k_index": 2192,
+      "type": "bottom",
+      "price": 183.97999572753903,
+      "date": "2021-07-28"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2192,
+      "type": "bottom",
+      "price": 183.97999572753903,
+      "date": "2021-07-28"
+    },
+    "end": {
+      "k_index": 2195,
+      "type": "top",
+      "price": 191.5500030517578,
+      "date": "2021-08-02"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2195,
+      "type": "top",
+      "price": 191.5500030517578,
+      "date": "2021-08-02"
+    },
+    "end": {
+      "k_index": 2200,
+      "type": "bottom",
+      "price": 186.47999572753903,
+      "date": "2021-08-10"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2200,
+      "type": "bottom",
+      "price": 186.47999572753903,
+      "date": "2021-08-10"
+    },
+    "end": {
+      "k_index": 2216,
+      "type": "top",
+      "price": 207.77999877929688,
+      "date": "2021-09-10"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2216,
+      "type": "top",
+      "price": 207.77999877929688,
+      "date": "2021-09-10"
+    },
+    "end": {
+      "k_index": 2220,
+      "type": "bottom",
+      "price": 199.57000732421875,
+      "date": "2021-09-20"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2220,
+      "type": "bottom",
+      "price": 199.57000732421875,
+      "date": "2021-09-20"
+    },
+    "end": {
+      "k_index": 2223,
+      "type": "top",
+      "price": 210.1199951171875,
+      "date": "2021-09-24"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2223,
+      "type": "top",
+      "price": 210.1199951171875,
+      "date": "2021-09-24"
+    },
+    "end": {
+      "k_index": 2229,
+      "type": "bottom",
+      "price": 197.0500030517578,
+      "date": "2021-10-04"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2229,
+      "type": "bottom",
+      "price": 197.0500030517578,
+      "date": "2021-10-04"
+    },
+    "end": {
+      "k_index": 2242,
+      "type": "top",
+      "price": 215.9900054931641,
+      "date": "2021-10-22"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2242,
+      "type": "top",
+      "price": 215.9900054931641,
+      "date": "2021-10-22"
+    },
+    "end": {
+      "k_index": 2247,
+      "type": "bottom",
+      "price": 206.5399932861328,
+      "date": "2021-11-03"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2247,
+      "type": "bottom",
+      "price": 206.5399932861328,
+      "date": "2021-11-03"
+    },
+    "end": {
+      "k_index": 2259,
+      "type": "top",
+      "price": 231.57000732421875,
+      "date": "2021-11-22"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2259,
+      "type": "top",
+      "price": 231.57000732421875,
+      "date": "2021-11-22"
+    },
+    "end": {
+      "k_index": 2263,
+      "type": "bottom",
+      "price": 219.1699981689453,
+      "date": "2021-12-06"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2263,
+      "type": "bottom",
+      "price": 219.1699981689453,
+      "date": "2021-12-06"
+    },
+    "end": {
+      "k_index": 2270,
+      "type": "top",
+      "price": 230.7899932861328,
+      "date": "2021-12-16"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2270,
+      "type": "top",
+      "price": 230.7899932861328,
+      "date": "2021-12-16"
+    },
+    "end": {
+      "k_index": 2294,
+      "type": "bottom",
+      "price": 185.58999633789065,
+      "date": "2022-01-28"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2294,
+      "type": "bottom",
+      "price": 185.58999633789065,
+      "date": "2022-01-28"
+    },
+    "end": {
+      "k_index": 2300,
+      "type": "top",
+      "price": 203.9900054931641,
+      "date": "2022-02-09"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2300,
+      "type": "top",
+      "price": 203.9900054931641,
+      "date": "2022-02-09"
+    },
+    "end": {
+      "k_index": 2307,
+      "type": "bottom",
+      "price": 175.0,
+      "date": "2022-02-24"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2307,
+      "type": "bottom",
+      "price": 175.0,
+      "date": "2022-02-24"
+    },
+    "end": {
+      "k_index": 2313,
+      "type": "top",
+      "price": 188.8300018310547,
+      "date": "2022-03-07"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2313,
+      "type": "top",
+      "price": 188.8300018310547,
+      "date": "2022-03-07"
+    },
+    "end": {
+      "k_index": 2317,
+      "type": "bottom",
+      "price": 181.8999938964844,
+      "date": "2022-03-14"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2317,
+      "type": "bottom",
+      "price": 181.8999938964844,
+      "date": "2022-03-14"
+    },
+    "end": {
+      "k_index": 2331,
+      "type": "top",
+      "price": 222.1100006103516,
+      "date": "2022-04-08"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2331,
+      "type": "top",
+      "price": 222.1100006103516,
+      "date": "2022-04-08"
+    },
+    "end": {
+      "k_index": 2355,
+      "type": "bottom",
+      "price": 164.9600067138672,
+      "date": "2022-05-19"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2355,
+      "type": "bottom",
+      "price": 164.9600067138672,
+      "date": "2022-05-19"
+    },
+    "end": {
+      "k_index": 2361,
+      "type": "top",
+      "price": 178.8699951171875,
+      "date": "2022-05-31"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2361,
+      "type": "top",
+      "price": 178.8699951171875,
+      "date": "2022-05-31"
+    },
+    "end": {
+      "k_index": 2371,
+      "type": "bottom",
+      "price": 156.0500030517578,
+      "date": "2022-06-16"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2371,
+      "type": "bottom",
+      "price": 156.0500030517578,
+      "date": "2022-06-16"
+    },
+    "end": {
+      "k_index": 2403,
+      "type": "top",
+      "price": 206.9900054931641,
+      "date": "2022-08-16"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2403,
+      "type": "top",
+      "price": 206.9900054931641,
+      "date": "2022-08-16"
+    },
+    "end": {
+      "k_index": 2412,
+      "type": "bottom",
+      "price": 183.38999938964844,
+      "date": "2022-09-06"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2412,
+      "type": "bottom",
+      "price": 183.38999938964844,
+      "date": "2022-09-06"
+    },
+    "end": {
+      "k_index": 2416,
+      "type": "top",
+      "price": 193.0599975585937,
+      "date": "2022-09-12"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2416,
+      "type": "top",
+      "price": 193.0599975585937,
+      "date": "2022-09-12"
+    },
+    "end": {
+      "k_index": 2423,
+      "type": "bottom",
+      "price": 169.9499969482422,
+      "date": "2022-09-30"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2423,
+      "type": "bottom",
+      "price": 169.9499969482422,
+      "date": "2022-09-30"
+    },
+    "end": {
+      "k_index": 2426,
+      "type": "top",
+      "price": 181.1199951171875,
+      "date": "2022-10-05"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2426,
+      "type": "top",
+      "price": 181.1199951171875,
+      "date": "2022-10-05"
+    },
+    "end": {
+      "k_index": 2432,
+      "type": "bottom",
+      "price": 163.63999938964844,
+      "date": "2022-10-13"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2432,
+      "type": "bottom",
+      "price": 163.63999938964844,
+      "date": "2022-10-13"
+    },
+    "end": {
+      "k_index": 2435,
+      "type": "top",
+      "price": 176.4199981689453,
+      "date": "2022-10-18"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2435,
+      "type": "top",
+      "price": 176.4199981689453,
+      "date": "2022-10-18"
+    },
+    "end": {
+      "k_index": 2438,
+      "type": "bottom",
+      "price": 163.7899932861328,
+      "date": "2022-10-21"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2438,
+      "type": "bottom",
+      "price": 163.7899932861328,
+      "date": "2022-10-21"
+    },
+    "end": {
+      "k_index": 2443,
+      "type": "top",
+      "price": 186.8600006103516,
+      "date": "2022-11-01"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2443,
+      "type": "top",
+      "price": 186.8600006103516,
+      "date": "2022-11-01"
+    },
+    "end": {
+      "k_index": 2446,
+      "type": "bottom",
+      "price": 162.94000244140625,
+      "date": "2022-11-04"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2446,
+      "type": "bottom",
+      "price": 162.94000244140625,
+      "date": "2022-11-04"
+    },
+    "end": {
+      "k_index": 2449,
+      "type": "top",
+      "price": 181.6100006103516,
+      "date": "2022-11-11"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2449,
+      "type": "top",
+      "price": 181.6100006103516,
+      "date": "2022-11-11"
+    },
+    "end": {
+      "k_index": 2452,
+      "type": "bottom",
+      "price": 167.80999755859375,
+      "date": "2022-11-17"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2452,
+      "type": "bottom",
+      "price": 167.80999755859375,
+      "date": "2022-11-17"
+    },
+    "end": {
+      "k_index": 2461,
+      "type": "top",
+      "price": 187.67999267578125,
+      "date": "2022-12-01"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2461,
+      "type": "top",
+      "price": 187.67999267578125,
+      "date": "2022-12-01"
+    },
+    "end": {
+      "k_index": 2471,
+      "type": "bottom",
+      "price": 170.5399932861328,
+      "date": "2022-12-20"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2471,
+      "type": "bottom",
+      "price": 170.5399932861328,
+      "date": "2022-12-20"
+    },
+    "end": {
+      "k_index": 2484,
+      "type": "top",
+      "price": 186.8000030517578,
+      "date": "2023-01-12"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2484,
+      "type": "top",
+      "price": 186.8000030517578,
+      "date": "2023-01-12"
+    },
+    "end": {
+      "k_index": 2487,
+      "type": "bottom",
+      "price": 176.3699951171875,
+      "date": "2023-01-20"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2487,
+      "type": "bottom",
+      "price": 176.3699951171875,
+      "date": "2023-01-20"
+    },
+    "end": {
+      "k_index": 2495,
+      "type": "top",
+      "price": 188.8500061035156,
+      "date": "2023-02-02"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2495,
+      "type": "top",
+      "price": 188.8500061035156,
+      "date": "2023-02-02"
+    },
+    "end": {
+      "k_index": 2498,
+      "type": "bottom",
+      "price": 173.0500030517578,
+      "date": "2023-02-07"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2498,
+      "type": "bottom",
+      "price": 173.0500030517578,
+      "date": "2023-02-07"
+    },
+    "end": {
+      "k_index": 2501,
+      "type": "top",
+      "price": 179.6199951171875,
+      "date": "2023-02-13"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2501,
+      "type": "top",
+      "price": 179.6199951171875,
+      "date": "2023-02-13"
+    },
+    "end": {
+      "k_index": 2507,
+      "type": "bottom",
+      "price": 169.74000549316406,
+      "date": "2023-02-24"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2507,
+      "type": "bottom",
+      "price": 169.74000549316406,
+      "date": "2023-02-24"
+    },
+    "end": {
+      "k_index": 2513,
+      "type": "top",
+      "price": 189.4499969482422,
+      "date": "2023-03-07"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2513,
+      "type": "top",
+      "price": 189.4499969482422,
+      "date": "2023-03-07"
+    },
+    "end": {
+      "k_index": 2517,
+      "type": "bottom",
+      "price": 177.88999938964844,
+      "date": "2023-03-15"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2517,
+      "type": "bottom",
+      "price": 177.88999938964844,
+      "date": "2023-03-15"
+    },
+    "end": {
+      "k_index": 2528,
+      "type": "top",
+      "price": 194.009994506836,
+      "date": "2023-03-31"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2528,
+      "type": "top",
+      "price": 194.009994506836,
+      "date": "2023-03-31"
+    },
+    "end": {
+      "k_index": 2533,
+      "type": "bottom",
+      "price": 186.9600067138672,
+      "date": "2023-04-10"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2533,
+      "type": "bottom",
+      "price": 186.9600067138672,
+      "date": "2023-04-10"
+    },
+    "end": {
+      "k_index": 2540,
+      "type": "top",
+      "price": 197.5399932861328,
+      "date": "2023-04-24"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2540,
+      "type": "top",
+      "price": 197.5399932861328,
+      "date": "2023-04-24"
+    },
+    "end": {
+      "k_index": 2545,
+      "type": "bottom",
+      "price": 187.8600006103516,
+      "date": "2023-05-02"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2545,
+      "type": "bottom",
+      "price": 187.8600006103516,
+      "date": "2023-05-02"
+    },
+    "end": {
+      "k_index": 2554,
+      "type": "top",
+      "price": 222.92999267578125,
+      "date": "2023-05-19"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2554,
+      "type": "top",
+      "price": 222.92999267578125,
+      "date": "2023-05-19"
+    },
+    "end": {
+      "k_index": 2559,
+      "type": "bottom",
+      "price": 216.1699981689453,
+      "date": "2023-05-31"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2559,
+      "type": "bottom",
+      "price": 216.1699981689453,
+      "date": "2023-05-31"
+    },
+    "end": {
+      "k_index": 2563,
+      "type": "top",
+      "price": 224.47000122070312,
+      "date": "2023-06-06"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2563,
+      "type": "top",
+      "price": 224.47000122070312,
+      "date": "2023-06-06"
+    },
+    "end": {
+      "k_index": 2568,
+      "type": "bottom",
+      "price": 216.2400054931641,
+      "date": "2023-06-13"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2568,
+      "type": "bottom",
+      "price": 216.2400054931641,
+      "date": "2023-06-13"
+    },
+    "end": {
+      "k_index": 2574,
+      "type": "top",
+      "price": 228.42999267578125,
+      "date": "2023-06-22"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2574,
+      "type": "top",
+      "price": 228.42999267578125,
+      "date": "2023-06-22"
+    },
+    "end": {
+      "k_index": 2580,
+      "type": "bottom",
+      "price": 220.67999267578125,
+      "date": "2023-07-03"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2580,
+      "type": "bottom",
+      "price": 220.67999267578125,
+      "date": "2023-07-03"
+    },
+    "end": {
+      "k_index": 2591,
+      "type": "top",
+      "price": 238.82000732421875,
+      "date": "2023-07-27"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2591,
+      "type": "top",
+      "price": 238.82000732421875,
+      "date": "2023-07-27"
+    },
+    "end": {
+      "k_index": 2594,
+      "type": "bottom",
+      "price": 225.7100067138672,
+      "date": "2023-08-02"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2594,
+      "type": "bottom",
+      "price": 225.7100067138672,
+      "date": "2023-08-02"
+    },
+    "end": {
+      "k_index": 2618,
+      "type": "top",
+      "price": 249.259994506836,
+      "date": "2023-09-14"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2618,
+      "type": "top",
+      "price": 249.259994506836,
+      "date": "2023-09-14"
+    },
+    "end": {
+      "k_index": 2629,
+      "type": "bottom",
+      "price": 233.3099975585937,
+      "date": "2023-10-02"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2629,
+      "type": "bottom",
+      "price": 233.3099975585937,
+      "date": "2023-10-02"
+    },
+    "end": {
+      "k_index": 2636,
+      "type": "top",
+      "price": 249.0,
+      "date": "2023-10-13"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2636,
+      "type": "top",
+      "price": 249.0,
+      "date": "2023-10-13"
+    },
+    "end": {
+      "k_index": 2647,
+      "type": "bottom",
+      "price": 221.88999938964844,
+      "date": "2023-10-30"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2647,
+      "type": "bottom",
+      "price": 221.88999938964844,
+      "date": "2023-10-30"
+    },
+    "end": {
+      "k_index": 2655,
+      "type": "top",
+      "price": 241.8300018310547,
+      "date": "2023-11-14"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2655,
+      "type": "top",
+      "price": 241.8300018310547,
+      "date": "2023-11-14"
+    },
+    "end": {
+      "k_index": 2658,
+      "type": "bottom",
+      "price": 236.22000122070312,
+      "date": "2023-11-20"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2658,
+      "type": "bottom",
+      "price": 236.22000122070312,
+      "date": "2023-11-20"
+    },
+    "end": {
+      "k_index": 2665,
+      "type": "top",
+      "price": 243.5399932861328,
+      "date": "2023-12-01"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2665,
+      "type": "top",
+      "price": 243.5399932861328,
+      "date": "2023-12-01"
+    },
+    "end": {
+      "k_index": 2670,
+      "type": "bottom",
+      "price": 230.17999267578125,
+      "date": "2023-12-08"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2670,
+      "type": "bottom",
+      "price": 230.17999267578125,
+      "date": "2023-12-08"
+    },
+    "end": {
+      "k_index": 2673,
+      "type": "top",
+      "price": 248.5500030517578,
+      "date": "2023-12-14"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2673,
+      "type": "top",
+      "price": 248.5500030517578,
+      "date": "2023-12-14"
+    },
+    "end": {
+      "k_index": 2678,
+      "type": "bottom",
+      "price": 232.8300018310547,
+      "date": "2023-12-21"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2678,
+      "type": "bottom",
+      "price": 232.8300018310547,
+      "date": "2023-12-21"
+    },
+    "end": {
+      "k_index": 2682,
+      "type": "top",
+      "price": 239.2700042724609,
+      "date": "2024-01-02"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2682,
+      "type": "top",
+      "price": 239.2700042724609,
+      "date": "2024-01-02"
+    },
+    "end": {
+      "k_index": 2685,
+      "type": "bottom",
+      "price": 229.52999877929688,
+      "date": "2024-01-08"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2685,
+      "type": "bottom",
+      "price": 229.52999877929688,
+      "date": "2024-01-08"
+    },
+    "end": {
+      "k_index": 2701,
+      "type": "top",
+      "price": 251.97999572753903,
+      "date": "2024-02-08"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2701,
+      "type": "top",
+      "price": 251.97999572753903,
+      "date": "2024-02-08"
+    },
+    "end": {
+      "k_index": 2705,
+      "type": "bottom",
+      "price": 243.44000244140625,
+      "date": "2024-02-14"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2705,
+      "type": "bottom",
+      "price": 243.44000244140625,
+      "date": "2024-02-14"
+    },
+    "end": {
+      "k_index": 2708,
+      "type": "top",
+      "price": 249.2100067138672,
+      "date": "2024-02-20"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2708,
+      "type": "top",
+      "price": 249.2100067138672,
+      "date": "2024-02-20"
+    },
+    "end": {
+      "k_index": 2734,
+      "type": "bottom",
+      "price": 220.5500030517578,
+      "date": "2024-04-17"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2734,
+      "type": "bottom",
+      "price": 220.5500030517578,
+      "date": "2024-04-17"
+    },
+    "end": {
+      "k_index": 2737,
+      "type": "top",
+      "price": 224.97000122070312,
+      "date": "2024-04-22"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2737,
+      "type": "top",
+      "price": 224.97000122070312,
+      "date": "2024-04-22"
+    },
+    "end": {
+      "k_index": 2741,
+      "type": "bottom",
+      "price": 217.33999633789065,
+      "date": "2024-04-30"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2741,
+      "type": "bottom",
+      "price": 217.33999633789065,
+      "date": "2024-04-30"
+    },
+    "end": {
+      "k_index": 2768,
+      "type": "top",
+      "price": 273.70001220703125,
+      "date": "2024-06-25"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2768,
+      "type": "top",
+      "price": 273.70001220703125,
+      "date": "2024-06-25"
+    },
+    "end": {
+      "k_index": 2771,
+      "type": "bottom",
+      "price": 266.4100036621094,
+      "date": "2024-07-01"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2771,
+      "type": "bottom",
+      "price": 266.4100036621094,
+      "date": "2024-07-01"
+    },
+    "end": {
+      "k_index": 2781,
+      "type": "top",
+      "price": 282.2099914550781,
+      "date": "2024-07-18"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2781,
+      "type": "top",
+      "price": 282.2099914550781,
+      "date": "2024-07-18"
+    },
+    "end": {
+      "k_index": 2788,
+      "type": "bottom",
+      "price": 257.5899963378906,
+      "date": "2024-08-01"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2788,
+      "type": "bottom",
+      "price": 257.5899963378906,
+      "date": "2024-08-01"
+    },
+    "end": {
+      "k_index": 2801,
+      "type": "top",
+      "price": 276.2200012207031,
+      "date": "2024-09-03"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2801,
+      "type": "top",
+      "price": 276.2200012207031,
+      "date": "2024-09-03"
+    },
+    "end": {
+      "k_index": 2813,
+      "type": "bottom",
+      "price": 261.75,
+      "date": "2024-09-24"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2813,
+      "type": "bottom",
+      "price": 261.75,
+      "date": "2024-09-24"
+    },
+    "end": {
+      "k_index": 2820,
+      "type": "top",
+      "price": 277.2699890136719,
+      "date": "2024-10-09"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2820,
+      "type": "top",
+      "price": 277.2699890136719,
+      "date": "2024-10-09"
+    },
+    "end": {
+      "k_index": 2827,
+      "type": "bottom",
+      "price": 261.1300048828125,
+      "date": "2024-10-29"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2827,
+      "type": "bottom",
+      "price": 261.1300048828125,
+      "date": "2024-10-29"
+    },
+    "end": {
+      "k_index": 2836,
+      "type": "top",
+      "price": 291.4200134277344,
+      "date": "2024-11-13"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2836,
+      "type": "top",
+      "price": 291.4200134277344,
+      "date": "2024-11-13"
+    },
+    "end": {
+      "k_index": 2839,
+      "type": "bottom",
+      "price": 279.239990234375,
+      "date": "2024-11-20"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2839,
+      "type": "bottom",
+      "price": 279.239990234375,
+      "date": "2024-11-20"
+    },
+    "end": {
+      "k_index": 2844,
+      "type": "top",
+      "price": 296.5799865722656,
+      "date": "2024-11-27"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2844,
+      "type": "top",
+      "price": 296.5799865722656,
+      "date": "2024-11-27"
+    },
+    "end": {
+      "k_index": 2858,
+      "type": "bottom",
+      "price": 273.239990234375,
+      "date": "2024-12-23"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2858,
+      "type": "bottom",
+      "price": 273.239990234375,
+      "date": "2024-12-23"
+    },
+    "end": {
+      "k_index": 2863,
+      "type": "top",
+      "price": 277.8299865722656,
+      "date": "2025-01-02"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2863,
+      "type": "top",
+      "price": 277.8299865722656,
+      "date": "2025-01-02"
+    },
+    "end": {
+      "k_index": 2869,
+      "type": "bottom",
+      "price": 266.19000244140625,
+      "date": "2025-01-13"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2869,
+      "type": "bottom",
+      "price": 266.19000244140625,
+      "date": "2025-01-13"
+    },
+    "end": {
+      "k_index": 2888,
+      "type": "top",
+      "price": 296.94000244140625,
+      "date": "2025-02-14"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2888,
+      "type": "top",
+      "price": 296.94000244140625,
+      "date": "2025-02-14"
+    },
+    "end": {
+      "k_index": 2891,
+      "type": "bottom",
+      "price": 291.0599975585937,
+      "date": "2025-02-20"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2891,
+      "type": "bottom",
+      "price": 291.0599975585937,
+      "date": "2025-02-20"
+    },
+    "end": {
+      "k_index": 2898,
+      "type": "top",
+      "price": 306.1000061035156,
+      "date": "2025-03-04"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2898,
+      "type": "top",
+      "price": 306.1000061035156,
+      "date": "2025-03-04"
+    },
+    "end": {
+      "k_index": 2905,
+      "type": "bottom",
+      "price": 285.260009765625,
+      "date": "2025-03-13"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2905,
+      "type": "bottom",
+      "price": 285.260009765625,
+      "date": "2025-03-13"
+    },
+    "end": {
+      "k_index": 2909,
+      "type": "top",
+      "price": 291.44000244140625,
+      "date": "2025-03-19"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2909,
+      "type": "top",
+      "price": 291.44000244140625,
+      "date": "2025-03-19"
+    },
+    "end": {
+      "k_index": 2913,
+      "type": "bottom",
+      "price": 283.989990234375,
+      "date": "2025-03-25"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2913,
+      "type": "bottom",
+      "price": 283.989990234375,
+      "date": "2025-03-25"
+    },
+    "end": {
+      "k_index": 2918,
+      "type": "top",
+      "price": 306.67999267578125,
+      "date": "2025-04-03"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2918,
+      "type": "top",
+      "price": 306.67999267578125,
+      "date": "2025-04-03"
+    },
+    "end": {
+      "k_index": 2921,
+      "type": "bottom",
+      "price": 273.760009765625,
+      "date": "2025-04-09"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2921,
+      "type": "bottom",
+      "price": 273.760009765625,
+      "date": "2025-04-09"
+    },
+    "end": {
+      "k_index": 2925,
+      "type": "top",
+      "price": 297.6099853515625,
+      "date": "2025-04-15"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2925,
+      "type": "top",
+      "price": 297.6099853515625,
+      "date": "2025-04-15"
+    },
+    "end": {
+      "k_index": 2930,
+      "type": "bottom",
+      "price": 283.2099914550781,
+      "date": "2025-04-25"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2930,
+      "type": "bottom",
+      "price": 283.2099914550781,
+      "date": "2025-04-25"
+    },
+    "end": {
+      "k_index": 2948,
+      "type": "top",
+      "price": 322.9200134277344,
+      "date": "2025-06-05"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2948,
+      "type": "top",
+      "price": 322.9200134277344,
+      "date": "2025-06-05"
+    },
+    "end": {
+      "k_index": 2957,
+      "type": "bottom",
+      "price": 302.82000732421875,
+      "date": "2025-06-26"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2957,
+      "type": "bottom",
+      "price": 302.82000732421875,
+      "date": "2025-06-26"
+    },
+    "end": {
+      "k_index": 2960,
+      "type": "top",
+      "price": 314.79998779296875,
+      "date": "2025-07-01"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2960,
+      "type": "top",
+      "price": 314.79998779296875,
+      "date": "2025-07-01"
+    },
+    "end": {
+      "k_index": 2984,
+      "type": "bottom",
+      "price": 259.010009765625,
+      "date": "2025-08-13"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2984,
+      "type": "bottom",
+      "price": 259.010009765625,
+      "date": "2025-08-13"
+    },
+    "end": {
+      "k_index": 2987,
+      "type": "top",
+      "price": 276.19000244140625,
+      "date": "2025-08-20"
+    },
+    "direction": "up"
+  },
+  {
+    "start": {
+      "k_index": 2987,
+      "type": "top",
+      "price": 276.19000244140625,
+      "date": "2025-08-20"
+    },
+    "end": {
+      "k_index": 2991,
+      "type": "bottom",
+      "price": 264.9599914550781,
+      "date": "2025-08-28"
+    },
+    "direction": "down"
+  },
+  {
+    "start": {
+      "k_index": 2991,
+      "type": "bottom",
+      "price": 264.9599914550781,
+      "date": "2025-08-28"
+    },
+    "end": {
+      "k_index": 2996,
+      "type": "top",
+      "price": 273.8299865722656,
+      "date": "2025-09-09"
+    },
+    "direction": "up"
+  }
+]
