@@ -39,14 +39,7 @@ jobs:
         run: |
           python append_new_data.py
 
-      - name: 运行缠论处理脚本
-        run: |
-          python chan_processor.py
-
-      - name: 运行笔序列识别脚本
-        run: |
-          python bi_sequence.py
-
+      
       - name: 配置 Git
         run: |
           git config user.name "github-actions"
@@ -61,10 +54,6 @@ jobs:
         run: |
           # 添加所有可能更改的文件
           git add sp500_data/*.csv || true
-          git add processed_data/*.csv || true
-          git add sequence_data/*.csv || true  # 新增：添加笔序列CSV文件
-          git add sequence_data/*.json || true # 新增：添加笔序列JSON文件
-          git add state/*.json || true         # 新增：添加状态文件
           
           # 检查是否有更改需要提交
           if git diff --cached --quiet; then
